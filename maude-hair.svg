@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="Maude's hair">
+<defs><linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c66b13"/><stop offset="1" stop-color="#a95108"/></linearGradient></defs>
+<path d="M104 80 Q99 65 113 58 Q119 53 132 53 Q137 43 151 41 Q166 36 176 45 Q180 48 181 51 Q197 43 207 57 Q211 64 210 69 Q226 75 224 91 Q222 99 218 105 Q225 119 213 130 Q203 141 191 134 Q181 127 187 117 Q181 108 186 99 Q181 91 180 84 Q173 89 165 84 Q156 90 146 84 Q135 91 126 84 Q120 93 128 100 Q120 107 126 115 Q137 117 131 126 Q124 137 112 135 Q97 131 101 118 Q95 108 103 100 Q94 90 104 80Z" fill="url(#hair)" stroke="#17100a" stroke-width="2.7" stroke-linejoin="round"/>
+<g fill="none" stroke="#201209" stroke-width="2.3" stroke-linecap="round"><path d="M130 68 Q122 79 133 85"/><path d="M145 67 Q139 82 150 85"/><path d="M160 67 Q156 80 166 85"/><path d="M176 72 Q173 81 182 85"/><path d="M107 101 Q113 106 125 101"/><path d="M187 101 Q198 106 211 98"/></g>
+</svg>
