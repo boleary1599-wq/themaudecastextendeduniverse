@@ -14,3 +14,13 @@ Every dialogue turn in every published Maudecast transcript **must** have a spea
 8. YouTube video/audio is the primary source. Whisper transcripts are drafts requiring attribution and proofreading.
 
 **Acceptance criterion:** No episode transcript is considered publication-ready until 100% of turns have a named speaker, including provisional best guesses.
+
+## Continuous speaker turns — mandatory display rule
+
+**Show the speaker name only when the speaker changes.** If Brendan speaks in three successive transcript blocks, merge them into **one Brendan turn**; do not print Brendan three times. The same applies to Nathan and all future speakers. A new named turn begins only when another person speaks.
+
+- Combine adjacent blocks by the same speaker in both the **stored transcript data** and the **published page**.
+- Preserve all spoken words in their original order. Never delete dialogue just to merge blocks.
+- Preserve original timestamp cues inside a merged turn so readers can still click through to the corresponding YouTube moments. Display the speaker heading once, followed by timestamped passages as needed.
+- If a later correction changes a speaker assignment, re-merge neighbouring turns so no two adjacent turns have the same speaker name.
+- A speaker label is still mandatory on every **distinct speaker turn**; it does not need to repeat on every subtitle or paragraph.
