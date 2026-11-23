@@ -42,3 +42,18 @@ Episode 1: `episode-001.html`
 Connected GitHub can update text/HTML directly. For image assets, the earlier successful workflow used Google Drive as an intermediate step, GitHub blob/tree/commit, then GitHub Pages deployment. Keep the user's manual steps at zero when possible.
 
 **Design status:** The approved ribbon direction is implemented as functional SVG/HTML navigation in `inside.html`. The ribbon scale was reduced on 24 November 2026 to leave generous orange negative space. Keep reviewing the live rendering against the approved visual reference.
+
+## MFIMDb — Mandatory Transcript Rules
+
+**ALWAYS attribute every line of dialogue to a named speaker. NO EXCEPTIONS.**
+
+1. **100% speaker attribution:** Every speaking turn must have a name. Never use "Unknown", "Unidentified" or blank labels.
+2. **Guess when necessary:** Use the audio, context and conversational flow to identify speakers. If uncertain, make your best educated guess and flag it internally for later correction.
+3. **Readable dialogue:** Format transcripts as conversations, with the speaker's name clearly displayed. Merge consecutive lines from the same speaker.
+4. **Clickable timestamps:** Every speaking turn should have a timestamp linking to that moment in the embedded YouTube video.
+5. **Correct Whisper errors:** Fix obvious transcription mistakes, particularly character names, without inventing dialogue or removing jokes and digressions.
+6. **YouTube is the source of truth:** Use the original YouTube video/audio as the authoritative reference. Whisper provides the initial transcription.
+7. **Episode-specific speakers:** For Episode 1, use Brendan and Nathan unless the audio establishes another speaker.
+8. **Retrospective corrections:** All uncertain attributions can be revised later as more evidence becomes available.
+
+**GOLDEN RULE: Every transcript must be complete, readable, timestamped and fully speaker-attributed. When in doubt, assign the most likely speaker rather than leaving a gap.**
