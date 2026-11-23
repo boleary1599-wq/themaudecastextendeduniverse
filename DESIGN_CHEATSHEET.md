@@ -10,9 +10,17 @@ The approved mock-up from this conversation is the **orange page with pale-blue,
 - **Banners:** pale cyan/light blue approximately `#addcde`; thick, confident, slightly imperfect **black cartoon outlines**, rounded folds and visibly curled end-tails. Organic and playful but **clean, aligned and intentional**.
 - **Typography:** large, black, rounded, hand-lettered, uneven cartoon lettering like the Maudecast logo. Do not substitute formal serif or ordinary UI sans-serif headings. Maintain readability.
 - **Body copy:** simple, high-contrast lettering, with sufficient spacing; can be white where it reads clearly on orange.
-- **Layout:** centered main heading ribbon, breathing room, then smaller matching section ribbons. Responsive on mobile; no clipping, overlaps or text overflow.
+- **Layout:** SMALL ribbons floating in a LARGE FIELD OF ORANGE. Keep the orange negative space visually dominant, like the original Maudecast Episode 1 title-card screenshot. Desktop guideline: title ribbon at most ~760px wide, menu ribbons ~280px wide, three columns with generous horizontal and vertical gaps, and small bottom ribbon ~310px. Responsive on mobile; no clipping, overlaps or text overflow.
 - **Authenticity:** should feel like it came from the original hand-drawn Maudecast opening art. Reference: the small pale-blue `the MAUDE CAST` ribbon in the original video image.
 - **Do not** replace working website links with a static screenshot. Recreate the approved ribbon look with reusable SVG or equivalent scalable assets, with actual accessible HTML links and live text.
+
+## Separate palette: Episode pages (approved 24 November 2026)
+These colours apply to episode detail pages such as `episode-001.html`, NOT the orange `inside.html` menu:
+- **Background:** Deep purple `#160f23`
+- **Text:** Warm cream `#f7e6bf`
+- **Links:** Golden yellow `#ffc451`
+- **Episode cards/panels:** Darker purple with bright orange borders (current episode page uses `#251a33` panels and `#f47c24` accents).
+- Preserve the embedded YouTube video, episode metadata, transcript and working navigation. The episode-page palette is deliberately distinct from the orange Maudecast interior.
 
 ## Implementation / QA
 1. Inspect the existing GitHub page and approved artwork before changing it.
@@ -33,4 +41,4 @@ Episode 1: `episode-001.html`
 ## Publishing workflow
 Connected GitHub can update text/HTML directly. For image assets, the earlier successful workflow used Google Drive as an intermediate step, GitHub blob/tree/commit, then GitHub Pages deployment. Keep the user's manual steps at zero when possible.
 
-**Design status:** This cheat sheet records the approved design direction. The approved full-page mock-up is not yet implemented as working navigation on the live site.
+**Design status:** The approved ribbon direction is implemented as functional SVG/HTML navigation in `inside.html`. The ribbon scale was reduced on 24 November 2026 to leave generous orange negative space. Keep reviewing the live rendering against the approved visual reference.
