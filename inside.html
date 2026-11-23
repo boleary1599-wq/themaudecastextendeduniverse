@@ -1,29 +1,28 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Inside MFIMDb — The Maudecast</title>
 <style>
-*{box-sizing:border-box}
-body{margin:0;min-height:100vh;background:#c84600;color:#090706;text-align:center;font:1.15rem/1.5 "Comic Sans MS","Chalkboard SE","Marker Felt",cursive}
-main{max-width:900px;margin:auto;padding:44px 22px 80px}
-h1,h2,.entry strong,.ribbon{font-family:"Comic Sans MS","Chalkboard SE","Marker Felt",cursive;font-weight:900;letter-spacing:-.035em}
-h1{font-size:clamp(2.5rem,7vw,5rem);line-height:1.1;margin:0}
-p{max-width:700px;margin:24px auto}
-.ribbon{position:relative;isolation:isolate;display:block;width:fit-content;max-width:calc(100% - 42px);margin:20px auto 28px;padding:10px 36px 12px;background:#a9d9d9;border:5px solid #080808;border-radius:48% 7% 40% 8% / 18% 24% 20% 30%;box-shadow:2px 5px 0 #000;font-size:clamp(1.35rem,3.6vw,2.5rem);line-height:1.15;transform:rotate(-1deg)}
-.ribbon:before,.ribbon:after{content:"";position:absolute;z-index:-1;top:27%;width:36px;height:65%;background:#a9d9d9;border:4px solid #080808}
-.ribbon:before{left:-26px;clip-path:polygon(0 0,100% 10%,100% 100%,0 78%,22% 43%)}
-.ribbon:after{right:-26px;clip-path:polygon(0 10%,100% 0,78% 45%,100% 78%,0 100%)}
-a{color:#080808}
-.entry{display:block;max-width:720px;margin:32px auto;text-decoration:none;color:#080808;padding:18px 20px 24px;background:#eaa66c;border:5px solid #080808;border-radius:16px 11px 20px 12px;box-shadow:7px 8px 0 #080808;transform:rotate(.4deg)}
-.entry:hover{transform:rotate(0deg) translateY(-3px)}
-.entry .ribbon{font-size:clamp(1.15rem,3vw,1.9rem);margin:0 auto 18px;padding:8px 24px 10px}
-.entry span{display:block;font-size:1rem;line-height:1.5}
-.note{font-size:1rem}
-.back{display:inline-block;margin-top:18px;padding:8px 16px;border:3px solid #080808;background:#a9d9d9;border-radius:12px;text-decoration:none;font-weight:bold}
-@media(max-width:520px){main{padding:35px 15px 65px}.ribbon{padding-left:18px;padding-right:18px}.entry{padding:16px 12px}}
+*{box-sizing:border-box}html{background:#d94700}body{margin:0;min-height:100vh;background:#d94700;color:#090909;text-align:center;font-family:"Comic Sans MS","Chalkboard SE","Marker Felt",cursive}
+main{max-width:1536px;margin:0 auto;padding:4.5vw 2.5vw 5vw}h1{margin:0}.banner{display:block;width:100%;height:auto;overflow:visible}.hero{max-width:1390px;margin:auto}.subtitle{font-size:clamp(16px,2.5vw,38px);font-weight:700;color:#fff;margin:1.6vw auto 4.4vw;letter-spacing:.01em}
+.menu{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:2.7vw 1.2vw;align-items:center}.menu a,.menu .coming{display:block;position:relative;text-decoration:none;color:inherit;min-width:0}.menu a:hover{transform:translateY(-4px)}.menu a:focus-visible{outline:4px dashed white;outline-offset:4px}.coming{cursor:default}.coming:after{content:"Coming soon";position:absolute;left:50%;bottom:-.4rem;transform:translate(-50%,100%);font:12px system-ui,sans-serif;color:#fff;opacity:0}.coming:hover:after{opacity:1}.bottom{max-width:650px;margin:4vw auto 0}.archive{max-width:690px;margin:2rem auto 0;color:white;font-size:1rem}.archive a{color:#fff}.archive a:hover{text-decoration-thickness:3px}.small{font-size:.85rem;opacity:.9}
+svg text{fill:#090909;font-family:"Comic Sans MS","Chalkboard SE","Marker Felt",cursive;font-weight:800;letter-spacing:1px}
+@media(max-width:650px){main{padding:24px 12px 45px}.subtitle{margin:22px auto 36px}.menu{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 5px}.bottom{margin-top:35px}.archive{margin-top:24px}}
 </style></head><body><main>
-<h1 class="ribbon">Inside MFIMDb</h1>
-<p>The Maude Flanders Internet Museum, Theme Park and Database.</p>
-<h2 class="ribbon">Episode Archive</h2>
-<a class="entry" href="episode-001.html"><strong class="ribbon">001 · Maudtroductions</strong><span>The first Maudecast. Watch the original video and read the complete Whisper transcript.</span></a>
-<p class="note">More exhibits and episodes are being catalogued.</p>
-<a class="back" href="museum.html">← Return to the Museum</a>
+<svg xmlns="http://www.w3.org/2000/svg" style="position:absolute;width:0;height:0;overflow:hidden" aria-hidden="true"><defs>
+<symbol id="scroll" viewBox="0 0 480 132">
+<path d="M47 33 C31 18 12 20 8 36 C4 48 26 50 25 66 L22 104 C33 95 43 100 53 105 L65 108 L65 39 Z" fill="#b3dfe0" stroke="#050505" stroke-width="8" stroke-linejoin="round"/>
+<path d="M433 33 C449 18 468 20 472 36 C476 48 454 50 455 66 L458 104 C447 95 437 100 427 105 L415 108 L415 39 Z" fill="#b3dfe0" stroke="#050505" stroke-width="8" stroke-linejoin="round"/>
+<path d="M49 36 Q92 25 240 27 Q380 26 431 34 L429 104 Q380 112 240 111 Q105 115 52 105 Z" fill="#addbde" stroke="#050505" stroke-width="8" stroke-linejoin="round"/>
+</symbol></defs></svg>
+<h1 class="hero"><svg class="banner" viewBox="0 0 1100 230" role="img" aria-label="Inside MFIMDb"><path d="M116 63 Q80 40 54 61 Q35 82 73 95 L59 185 Q88 167 115 184 L143 187 L145 70 Z" fill="#addbde" stroke="#050505" stroke-width="12" stroke-linejoin="round"/><path d="M983 63 Q1020 40 1046 61 Q1065 82 1027 95 L1041 185 Q1012 167 985 184 L957 187 L955 70 Z" fill="#addbde" stroke="#050505" stroke-width="12" stroke-linejoin="round"/><path d="M139 61 Q310 38 554 46 Q811 41 962 59 L963 182 Q784 198 549 197 Q303 202 141 183 Z" fill="#addbde" stroke="#050505" stroke-width="12" stroke-linejoin="round"/><text x="550" y="145" text-anchor="middle" font-size="90" textLength="790" lengthAdjust="spacingAndGlyphs">Inside MFIMDb</text></svg></h1>
+<p class="subtitle">The Maudecast Extended Universe — episodes, characters, lore and more.</p>
+<div class="menu">
+<a href="episode-001.html" aria-label="Episodes: open Episode 1"><svg class="banner" viewBox="0 0 480 132" role="img" aria-label="Episodes"><use href="#scroll"/><text x="240" y="84" text-anchor="middle" font-size="46">EPISODES</text></svg></a>
+<span class="coming" title="Characters — coming soon"><svg class="banner" viewBox="0 0 480 132" role="img" aria-label="Characters, coming soon"><use href="#scroll"/><text x="240" y="84" text-anchor="middle" font-size="43">CHARACTERS</text></svg></span>
+<span class="coming" title="Theme Park — coming soon"><svg class="banner" viewBox="0 0 480 132" role="img" aria-label="Theme Park, coming soon"><use href="#scroll"/><text x="240" y="84" text-anchor="middle" font-size="44">THEME PARK</text></svg></span>
+<a href="museum.html" aria-label="The Museum: return to museum entrance"><svg class="banner" viewBox="0 0 480 132" role="img" aria-label="The Museum"><use href="#scroll"/><text x="240" y="84" text-anchor="middle" font-size="44">THE MUSEUM</text></svg></a>
+<span class="coming" title="Database — coming soon"><svg class="banner" viewBox="0 0 480 132" role="img" aria-label="Database, coming soon"><use href="#scroll"/><text x="240" y="84" text-anchor="middle" font-size="40">THE DATABASE</text></svg></span>
+<span class="coming" title="Lore — coming soon"><svg class="banner" viewBox="0 0 480 132" role="img" aria-label="Lore, coming soon"><use href="#scroll"/><text x="240" y="84" text-anchor="middle" font-size="45">THE LORE</text></svg></span>
+</div>
+<div class="bottom"><svg class="banner" viewBox="0 0 480 132" role="img" aria-label="The Maude Cast"><use href="#scroll"/><text x="240" y="83" text-anchor="middle" font-size="43">the MAUDE CAST</text></svg></div>
+<div class="archive"><a href="episode-001.html">001 · Maudtroductions — watch the original video and read the transcript</a><p class="small">More exhibits and episodes are being catalogued.</p></div>
 </main></body></html>
