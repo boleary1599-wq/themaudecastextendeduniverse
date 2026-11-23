@@ -6,6 +6,7 @@ main{min-height:100vh;display:grid;place-items:center;background:#000}
 .art{position:relative;width:min(100vw,177.58vh);aspect-ratio:1671/941}
 .art img{display:block;width:100%;height:100%;object-fit:contain}
 .door{position:absolute;left:43.5%;top:69.5%;width:13%;height:16%;cursor:pointer}
-.door:focus-visible{outline:3px solid white;outline-offset:3px}
+.door:focus-visible,.wig:focus-visible{outline:3px solid white;outline-offset:3px}
+.wig{position:absolute;left:32%;top:0;width:36%;height:32%;cursor:pointer}
 .fallback{display:none;color:#f7e2b2;text-align:center;font:1.2rem Georgia,serif;padding:2rem}
-</style></head><body><main><div class="art"><img src="museum-space.png" alt="The MFIMDb floating museum in starry space, with orange hair, a roller coaster, a Hot Cake Restaurant and red entrance doors" onerror="this.style.display='none';document.querySelector('.fallback').style.display='block'"><div class="fallback">The MFIMDb museum artwork is awaiting publication.</div><a class="door" href="inside.html" aria-label="Enter the MFIMDb museum" title="Enter the museum"></a></div></main></body></html>
+</style></head><body><main><div class="art"><img src="museum-space.png" alt="The MFIMDb floating museum in starry space, with orange hair, a roller coaster, a Hot Cake Restaurant and red entrance doors" onerror="this.style.display='none';document.querySelector('.fallback').style.display='block'"><div class="fallback">The MFIMDb museum artwork is awaiting publication.</div><a class="wig" href="index.html" aria-label="Return to the orange homepage" title="Back to the beginning"></a><a class="door" href="inside.html" aria-label="Enter the MFIMDb museum" title="Enter the museum"></a></div></main></body></html>
