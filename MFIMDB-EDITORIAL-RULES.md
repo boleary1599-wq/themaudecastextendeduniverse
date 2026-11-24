@@ -49,3 +49,6 @@ Every episode contains its title, embedded YouTube video, metadata, and the foll
 5. **The Sponsor** — document sponsors and advertising segments, distinguishing real sponsorship from fictional or joking advertisements. If none is identified, say so; never invent one.
 6. **Full Transcript** — preserve all existing mandatory transcript rules.
 Preserve additional recurring segments such as Maude Art and The World Without Maude when present. Do not introduce characters or developments before their first evidenced appearance.
+
+## Literary essay standard
+Target approximately 800 words (roughly 750–900), original highbrow-meets-lowbrow cultural criticism. Use specific episode details as the basis for an argument, with plentiful relevant references across literature, television, comedy, music, film and popular culture. References must illuminate the episode, not merely name-drop. Avoid generic recap, invented quotations and unsupported claims of influence. Use a distinctive title and thematic sections. The two Story So Far strands must be independent sections with separate continuity ledgers.
