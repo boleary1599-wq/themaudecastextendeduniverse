@@ -52,3 +52,6 @@ Preserve additional recurring segments such as Maude Art and The World Without M
 
 ## Literary essay standard
 Target approximately 800 words (roughly 750–900), original highbrow-meets-lowbrow cultural criticism. Use specific episode details as the basis for an argument, with plentiful relevant references across literature, television, comedy, music, film and popular culture. References must illuminate the episode, not merely name-drop. Avoid generic recap, invented quotations and unsupported claims of influence. Use a distinctive title and thematic sections. The two Story So Far strands must be independent sections with separate continuity ledgers.
+
+## Naming standard
+The independent Maude-universe continuity panel is titled **Spectral Speculations**. It retains both Simpsons canon and clearly labelled speculative lore; the Museum continuity remains separate.
