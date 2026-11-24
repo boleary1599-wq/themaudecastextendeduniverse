@@ -57,3 +57,6 @@ Connected GitHub can update text/HTML directly. For image assets, the earlier su
 8. **Retrospective corrections:** All uncertain attributions can be revised later as more evidence becomes available.
 
 **GOLDEN RULE: Every transcript must be complete, readable, timestamped and fully speaker-attributed. When in doubt, assign the most likely speaker rather than leaving a gap.**
+
+## Episode page editorial layout
+Follow MFIMDB-EDITORIAL-RULES.md and MFIMDB-CONTINUITY-GUIDE.md. After the video, show two distinct Story So Far strands (Maudecast Universe and Maude's Universe), a short Literary Essay, the Mauditorium, Sponsor, and Full Transcript. Preserve other episode-specific recurring segments. Use the approved purple episode palette and clear section navigation.
