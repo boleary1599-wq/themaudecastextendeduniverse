@@ -39,3 +39,13 @@ Every Maudecast episode should have a **The Story So Far** feature alongside its
 ## Continuity management
 
 Before publishing each new **The Story So Far**, follow the [MFIMDb Continuity Guide](MFIMDB-CONTINUITY-GUIDE.md), update the character and plot ledgers, and record contradictions instead of silently rewriting established history.
+
+## Mandatory episode architecture — two universes and recurring features
+Every episode contains its title, embedded YouTube video, metadata, and the following editorial features:
+1. **The Story So Far: The Maudecast Universe** — the Museum, Theme Park and Database as an institution and fictional setting; Brendan, Nathan, Stamp and other staff/characters when introduced; their relationships, adventures, running jokes and institutional developments.
+2. **The Story So Far: Maude's Universe** — Maude's life and relationships, Simpsons canon discussed, and the imagined biography emerging through Spectral Speculations. Keep verified canon, host recollection and invented lore distinct.
+3. **The Literary Essay** — a short original critical essay about the episode's comedy, ideas, themes and form, grounded in the episode rather than a plot recap.
+4. **The Mauditorium** — a cumulative fact archive about Maude. Label verified facts versus host assertions, interpretations and unresolved claims; include source timestamps.
+5. **The Sponsor** — document sponsors and advertising segments, distinguishing real sponsorship from fictional or joking advertisements. If none is identified, say so; never invent one.
+6. **Full Transcript** — preserve all existing mandatory transcript rules.
+Preserve additional recurring segments such as Maude Art and The World Without Maude when present. Do not introduce characters or developments before their first evidenced appearance.
