@@ -34,3 +34,6 @@ Merge adjacent same-speaker blocks in stored data and display; show the name onl
 Before declaring an episode complete: confirm original video ID and embed; verify complete named transcript with no adjacent repeated speaker headings; test timestamp navigation; complete two lore passes; reconcile cumulative ledgers and internal evidence; check all six panels, essay voice and fact provenance; verify links and responsive layout. A page missing required elements is an explicitly incomplete draft, even if committed to GitHub. Do not describe a commit as a verified live deployment without checking. Preserve existing work and update the Bibles when new standards are agreed.
 
 See [Continuity Bible](MFIMDB-CONTINUITY-GUIDE.md) and [Design Bible](DESIGN_CHEATSHEET.md).
+
+## Cumulative recap versus current episode
+In each of Museum Story and Spectral Speculations, separate The Story So Far (prior episodes only, maximum approximately 300 words per universe) from This Episode (unrestricted length; exhaustive current developments and micro-details). Episode 1 needs no prior recap. Keep the compact cumulative continuity ledger separately, without a word cap. Never sacrifice current episode evidence to meet the recap limit.
