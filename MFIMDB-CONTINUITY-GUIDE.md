@@ -1,58 +1,20 @@
-# MFIMDb Continuity Guide — Series Bible
-Version 1 · Baseline: Maudecast Episode 001
+# MFIMDb Continuity Bible — Series Guide
+Version 2 — consolidated 24 November 2026
 
-## Purpose
-Maintain a consistent history of **characters, plot developments, relationships, and recurring jokes** across the Maudecast Extended Universe. This guide is a continuity reference, not a substitute for the episode transcript or the separate MFIMDb editorial rules.
+## 1. Two universes and evidence
+Maintain separate Museum and Maude-universe character and plot ledgers. Tag each record by universe and cross-link only with evidence. Museum staff (including Stamp) enter only when evidenced. The Mauditorium is a separate cumulative factual register; sponsor records distinguish real and fictional advertisements.
+Internal source categories: verified Simpsons canon (original episode or reliable primary material, exact source); Maudecast assertion/recollection (unverified); established MFIMDb invented mythology; unresolved/hypothetical/contradicted. Preserve provenance, timestamps and confidence. Never silently rewrite history. Record contradictions and retcons chronologically.
+Public Museum Story and Spectral Speculations are neutral third-person narratives without timestamps or editorial commentary. Spectral Speculations prioritises MFIMDb mythology as its own continuity, then Simpsons background, without repeated non-canon labels. Keep uncertainty where genuinely unresolved. No later-episode spoilers.
 
-## Source hierarchy and certainty
-1. **Simpsons canon — verified:** a fact independently checked against the original television episode or reliable primary material. Record the exact source.
-2. **Maudecast assertion/recollection:** something a host states about Simpsons canon, not independently verified. Attribute it to the podcast; do not silently treat it as fact.
-3. **MFIMDb speculation:** a hypothetical or improvised story created by the hosts. Preserve it as invented continuity even when repeated later.
-4. **Unresolved / contradicted:** the source is ambiguous or later material disagrees. Keep both claims and record when each was made.
+## 2. Record templates
+Character: stable ID; preferred name and spelling aliases; universe/type; first evidenced appearance (episode and timestamp); relationships to other IDs with confidence; sourced facts; invented history separate from Simpsons canon internally; chronological changes; open questions/contradictions; last reviewed episode.
+Plot: stable ID, title, type; first introduction (episode and timestamp); participants' IDs; initial premise; chronological developments; status (open, recurring, resolved, contradicted or abandoned); canon boundary; outstanding questions.
 
-Never silently change a character's established biography. When new evidence conflicts, add a **continuity note** recording the contradiction and its episode/timestamp.
+## 3. Workflow and acceptance checks
+Follow the Editorial Bible's complete transcript and second lore pass. Extract every character mention and development, including minor callbacks. Resolve spelling variants to stable IDs rather than duplicates. Compare with earlier records, append evidence, flag uncertainties and contradictions, and link episodes, characters and storylines as those pages become available. Both public ledgers must be cumulative through the current episode, not merely a list of new discoveries. Check stable IDs, source timestamps, relationships, dates, callbacks, provenance, contradictions, no invented bridging facts and no later spoilers.
 
-## Character record template
-- **Stable ID:** e.g. CHAR-MAUDE, CHAR-JANICE-HUBLER
-- **Preferred display name** and transcript spelling aliases
-- **Universe / status:** Simpsons canon character, podcast-created character, or real person discussed
-- **First Maudecast appearance:** episode and clickable timestamp
-- **Relationships:** with other character IDs; specify confirmed / claimed / speculative
-- **Established facts:** individually tagged with source and confidence
-- **Maudecast-invented history:** separate from canon
-- **Changes by episode:** chronological entries, never overwrite previous history
-- **Open questions and contradictions:** with evidence
-- **Last reviewed:** episode number
-
-## Plot / storyline record template
-- **Stable plot ID**, descriptive title and type (canon discussion / speculation / running joke)
-- **First introduced** (episode + timestamp)
-- **Participants** (character IDs)
-- **Initial premise**
-- **Chronological developments** (episode + timestamp)
-- **Current status:** open, recurring, resolved, contradicted or abandoned
-- **Canon boundary:** clearly state whether it happened in The Simpsons or only in the podcast
-- **Outstanding questions**
-
-## Episode workflow — mandatory
-1. Read the episode's complete transcript and, where needed, check the YouTube audio.
-2. Extract every character mention and plot-relevant event, including invented names and minor callbacks.
-3. Resolve spelling variants to stable character IDs; never create a duplicate just because Whisper misspells a name.
-4. Compare each extracted claim with the existing character and plot records.
-5. Append new developments with episode and timestamp; do not overwrite earlier claims.
-6. Flag contradictions, uncertain attributions and unclear continuity.
-7. Write **The Story So Far** using only information available through that episode. Distinguish canon, recollection and invented lore.
-8. Add links between the episode, characters and storylines, then run the checks below.
-
-## Continuity checks before publishing
-- [ ] Every named character has exactly one stable ID
-- [ ] Every plot development links to an episode and timestamp
-- [ ] Relationships and dates do not silently change
-- [ ] Canon and speculative lore remain clearly labelled
-- [ ] Recurring characters and callbacks match earlier entries
-- [ ] Contradictions and retcons are recorded, not erased
-- [ ] The Story So Far contains no later-episode spoilers
-- [ ] No unsupported fact has been invented to bridge a gap
+## 4. Historical evidence archive
+The following episode records are retained from the earlier Bible. They are provisional where the source has not been audio-verified. Earlier statuses describe the episode at that point, not necessarily the current state.
 
 ## Episode 1 — initial character ledger
 | ID | Character | Type | Episode 1 baseline |
@@ -84,15 +46,6 @@ Maintain separate character and plot ledgers for (A) the Maudecast Museum univer
 - PLOT-MC-RESEARCH-MISSION: examine Maude's appearances and imagine what occurs between scenes; scope and episode count remain open (03:34, 16:24).
 - PLOT-MC-MAUDE-ART: recurring art review introduced; Michael Baker T-shirt discussed and awarded ten Maudes out of ten (21:11–25:50). No confirmed sponsorship.
 
-## Naming standard
-The independent Maude-universe continuity panel is titled **Spectral Speculations**. It retains both Simpsons canon and clearly labelled speculative lore; the Museum continuity remains separate.
-
-## Public continuity narrative voice
-Write the Museum Story and Spectral Speculations in a neutral, third-person narrative voice, as an unfolding account of characters and events. Avoid critical commentary, editorial process notes and references to characters who have not yet appeared. Keep literary interpretation in the essay. Do not display timestamps in either public story panel or its continuity ledger; retain source timestamps in internal continuity records and in the full transcript. Clearly distinguish canon from speculation where necessary.
-
-## Spectral Speculations — narrative priority (supersedes earlier public labelling rules)
-Lead the Spectral Speculations panel with Maudecast-created biography and developments, ahead of Simpsons background. Within the public MFIMDb story, treat established Maudecast lore as the continuity of this universe: narrate it directly in a neutral third-person voice, without repeated non-canon disclaimers, speculation labels or commentary about the hosts inventing it. Integrate relevant Simpsons background afterwards. Preserve genuine unresolved details without inventing certainty. Internally retain the source classification, original evidence, uncertain claims and distinction between Simpsons canon and MFIMDb canon; the Mauditorium must not present invented biography as verified Simpsons facts. This rule supersedes conflicting earlier requirements for public story-panel labels only.
-
 ## Episode 1 expanded Museum continuity evidence
 - Nathan introduced as staff member number one; biological brother relationship and names (00:48–01:51). Nathan's longstanding Maude fandom and childhood response to her death (13:22–14:05); video compilation (03:59–04:32); prior Redbubble designs (23:14).
 - Brendan organises timed segments and acknowledges Nathan's greater expertise (05:50–06:41, 17:16–18:02).
@@ -102,27 +55,6 @@ Lead the Spectral Speculations panel with Maudecast-created biography and develo
 - PLOT-MC-WORLD-WITHOUT-MAUDE: inaugural France discussion retained despite curators' reservations (26:45–31:51).
 - PLOT-MC-OUTRO-TRADITION: existing alternating-line songwriting practice, prolonged repetition and Nathan's annoyance; adapted to improvised episode outro (33:15–35:27). Exact name of earlier songwriting project unclear in Whisper; do not invent spelling.
 - For every episode, mine incidental dialogue for relationships, roles, staff, possessions, ambitions, prior history, institutional rules, traditions and running jokes. Public narrative remains neutral and timestamp-free; preserve supporting evidence internally. All above derived from provisional transcript, pending audio verification.
-
-## Mandatory deep lore excavation — every episode, no exceptions
-Read the entire transcript, including introductions, tangents, interruptions, jokes, asides, advertisements, songs and closing exchanges. Do not merely summarise the main segments. Actively mine even the smallest narrative detail for both the Museum universe and Spectral Speculations: character biographies, family relationships, staff hierarchy, personality, possessions, locations, institutional rules, ambitions, prior adventures, disagreements, habits, recurring phrases, invented names and potential callbacks. Early episodes are especially important because apparently throwaway remarks may establish foundational lore. Compare discoveries against all preceding episode ledgers, record first appearances and developments with internal source timestamps, and preserve ambiguities without inventing details. Before publication, perform a second dedicated lore pass to catch overlooked details. Write the public stories in neutral third-person narrative voice, without timestamps or editorial commentary; prioritise MFIMDb mythology over Simpsons background in Spectral Speculations. Never confuse a thin plot summary with a completed lore audit. Retain uncertain transcript readings internally for audio verification.
-
-## Exhaustive factual detail and thematic criticism
-Capture ALL recoverable in-universe facts, including obsessive micro-details: every named puppet, pet, fictional programme, object, place, incidental character, exact relationship, number, habit and passing reference. Distinguish a reference or comparison from an established lore fact; retain unclear names for audio verification rather than guessing. The essay is original long-form cultural criticism in the spirit of The Quietus, approximately 800 words. Build a coherent thematic argument with the complete episode transcript as its core and backbone. Draw highbrow and lowbrow references both from within the transcript and from wider culture, connecting them substantively to specific transcript evidence. Never structure the essay as a segment-by-segment recap, checklist, or one heading per podcast item. Use a small number of conceptual headings only when they advance the argument. Revisit evidence across segments to develop and complicate the thesis. Avoid gratuitous references, unsupported claims and invented quotations.
-
-## Locked master episode template — Episode 001: Maudtroductions
-The approved reference implementation is episode-001.html. Use its structure and editorial approach for every subsequent episode; never copy episode-specific facts into another episode. The required order is: header and episode title; metadata (number, duration, participants); concise introduction; embedded source YouTube video; six clickable navigation boxes (Museum Story, Spectral Speculations, Literary Essay, Mauditorium, Sponsor, Full Transcript); six corresponding content panels; return navigation.
-- Museum Story (#story-so-far): neutral third-person narrative of the Museum universe, deep extraction of every recoverable detail, thematic narrative subheadings and cumulative continuity ledger. No public timestamps or critical commentary.
-- Spectral Speculations (#maude-story): separate universe and panel, Maudecast mythology first, Simpsons background integrated afterwards, no public non-canon disclaimers, neutral narrative and cumulative ledger. Keep provenance and uncertainties internally.
-- Literary Essay (#literary-essay): distinctive title, approximately 800 words, autonomous thematic criticism with the transcript as backbone; high/low cultural references from inside and outside the episode. No host references, conversational recap or segment-by-segment structure. Episode 1's The Importance of Being Nobody is the editorial exemplar.
-- Mauditorium (#mauditorium): structured fact register with source timestamps and appropriate provenance; do not confuse invented mythology with verified Simpsons facts.
-- Sponsor (#sponsor): document actual sponsor material and relevant lore; explicitly distinguish jokes and unconfirmed sponsorship from confirmed advertising.
-- Full Transcript (#episode-transcript): complete named speaker turns, merge consecutive turns, retain timed cues, clickable timestamps controlling the embedded video, optional compact cue display, turn/cue count, downloadable TXT and JSON, honest provisional status and load-error fallback.
-- Visual system: deep purple #160f23, cream #f7e6bf, gold links #ffc451, orange #f47c24 header/video/nav borders; 920px main column; dark purple panels; separate orange-bordered Museum and gold-bordered Spectral panels; Georgia essay typography; responsive navigation boxes and mobile layout; accessible focus and skip link.
-- Before publication: read the three Bibles, complete two lore passes including obsessive micro-details, reconcile cumulative ledgers, check essay against the autonomous criticism standard, verify navigation/video/transcript functionality and update internal evidence records. Episode 1 is the approved structural and stylistic baseline, not a claim that its provisional transcript has been audio-verified. Its uncertain names and remaining transcription errors must still be resolved. New episode metadata, content, video ID and transcript paths must be independently sourced.
-
-
-The embedded episode is the viewing control; do not include a redundant Watch on YouTube navigation box. Preserve source links and timestamp functionality.
-
 
 ## Episode 002 — Dead Putting Society: continuity evidence
 - 04:42–05:59: Brendan recently joined; Nathan several years' service; virtually full-time work; Museum closed; Thursday delivery of wobbling pens and Egyptian Simpsons memorabilia; life-sized Maude Sphinx in car park; unofficial visit; car park closure.
