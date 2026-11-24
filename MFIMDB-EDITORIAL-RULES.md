@@ -35,3 +35,7 @@ Every Maudecast episode should have a **The Story So Far** feature alongside its
 - Record named characters invented in podcast segments as **MFIMDb speculative characters** and track them in later instalments when they recur.
 - Base each instalment primarily on the episode's original YouTube audio and transcript; verify external Simpsons facts separately if expanding beyond what the episode actually says.
 - Make the feature readable as a narrative with character-focused sections, not a transcript recap or generic review. Avoid spoilers from later podcast episodes when writing the current episode's running record.
+
+## Continuity management
+
+Before publishing each new **The Story So Far**, follow the [MFIMDb Continuity Guide](MFIMDB-CONTINUITY-GUIDE.md), update the character and plot ledgers, and record contradictions instead of silently rewriting established history.
