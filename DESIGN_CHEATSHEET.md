@@ -63,3 +63,6 @@ Follow MFIMDB-EDITORIAL-RULES.md and MFIMDB-CONTINUITY-GUIDE.md. After the video
 
 ## Separate continuity panels and long-form criticism
 Museum Story and Maude's Story must occupy completely separate, individually linked boxes, not subsections of a single panel. Keep the approved purple palette, with orange and gold borders distinguishing the two. Literary essays target approximately 800 words, with a distinct title, thematic subheadings and comfortable long-form typography.
+
+## Naming standard
+The independent Maude-universe continuity panel is titled **Spectral Speculations**. It retains both Simpsons canon and clearly labelled speculative lore; the Museum continuity remains separate.
