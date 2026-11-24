@@ -24,3 +24,14 @@ Every dialogue turn in every published Maudecast transcript **must** have a spea
 - Preserve original timestamp cues inside a merged turn so readers can still click through to the corresponding YouTube moments. Display the speaker heading once, followed by timestamped passages as needed.
 - If a later correction changes a speaker assignment, re-merge neighbouring turns so no two adjacent turns have the same speaker name.
 - A speaker label is still mandatory on every **distinct speaker turn**; it does not need to repeat on every subtitle or paragraph.
+
+## The Story So Far — mandatory episode feature
+
+Every Maudecast episode should have a **The Story So Far** feature alongside its embedded YouTube video and attributed transcript. Unlike the FALLOUT podcast's critical essays, this is an evolving **character and plot continuity archive**.
+
+- Explain **what happens to, or is revealed about, relevant characters in the current episode**, and place those developments within the series/podcast continuity **up to that episode only**.
+- Track relationships, character motivations, changes, callbacks, unresolved questions, and notable plot developments; include a compact cumulative **continuity ledger** that can be carried forward and updated.
+- Clearly distinguish **established Simpsons canon**, **the hosts' recollections or interpretations**, and **Maudecast-invented speculative lore**. Never silently promote a guess, joke or imagined backstory into canonical fact.
+- Record named characters invented in podcast segments as **MFIMDb speculative characters** and track them in later instalments when they recur.
+- Base each instalment primarily on the episode's original YouTube audio and transcript; verify external Simpsons facts separately if expanding beyond what the episode actually says.
+- Make the feature readable as a narrative with character-focused sections, not a transcript recap or generic review. Avoid spoilers from later podcast episodes when writing the current episode's running record.
