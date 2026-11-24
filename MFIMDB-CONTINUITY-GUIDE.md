@@ -86,3 +86,6 @@ Maintain separate character and plot ledgers for (A) the Maudecast Museum univer
 
 ## Naming standard
 The independent Maude-universe continuity panel is titled **Spectral Speculations**. It retains both Simpsons canon and clearly labelled speculative lore; the Museum continuity remains separate.
+
+## Public continuity narrative voice
+Write the Museum Story and Spectral Speculations in a neutral, third-person narrative voice, as an unfolding account of characters and events. Avoid critical commentary, editorial process notes and references to characters who have not yet appeared. Keep literary interpretation in the essay. Do not display timestamps in either public story panel or its continuity ledger; retain source timestamps in internal continuity records and in the full transcript. Clearly distinguish canon from speculation where necessary.
