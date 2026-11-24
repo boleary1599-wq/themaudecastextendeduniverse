@@ -65,3 +65,6 @@ Museum Story and Spectral Speculations should read like book chapters: combine c
 
 ## Cumulative recap versus current episode
 In each of Museum Story and Spectral Speculations, separate The Story So Far (prior episodes only, maximum approximately 300 words per universe) from This Episode (unrestricted length; exhaustive current developments and micro-details). Episode 1 needs no prior recap. Keep the compact cumulative continuity ledger separately, without a word cap. Never sacrifice current episode evidence to meet the recap limit.
+
+## Transcript reading mode — latest rule
+Supersedes earlier visible timestamp requirements: display one clickable checkpoint approximately every five minutes (up to ten minutes where natural). Do not display line-by-line timestamps. Join consecutive caption fragments into readable prose within each named speaker turn. Show speaker names only when the speaker changes. Preserve every original cue and precise timestamp in the underlying TXT/JSON archive for research and future navigation. Do not discard dialogue.
