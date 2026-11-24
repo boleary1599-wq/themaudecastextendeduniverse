@@ -75,3 +75,11 @@ Never silently change a character's established biography. When new evidence con
 | PLOT-MAUDE-FIRST-APPEARANCE | Proposed review of Maude's first appearance | Planned episode discussion | Pending at end of Episode 1 |
 
 **Caution:** The above baseline records what Episode 1's transcript supports. It does not constitute independent verification of Simpsons canon, and the provisional name Janice Hubler must be checked against audio before treating its spelling as certain.
+
+## Two parallel continuity universes
+Maintain separate character and plot ledgers for (A) the Maudecast Museum universe, including Brendan, Nathan, Stamp and other staff as they appear, and (B) Maude's universe, including Simpsons canon and Spectral Speculations. Tag every record with its universe; cross-link only when the episode supports a connection. Stamp is a prospective tracked character, not an Episode 1 appearance unless evidenced. The Mauditorium is a separate cumulative factual register, not a place to canonise speculation. Sponsor records track real or fictional advertisements and their continuity implications where supported.
+### Episode 1 — Maudecast universe baseline
+- CHAR-MC-BRENDAN and CHAR-MC-NATHAN: brothers and self-described curators; introductions around 00:48–01:51 (speaker attribution provisional).
+- PLOT-MC-MUSEUM-FOUNDATION: the podcast introduces the Maude Flanders Internet Museum, Theme Park and Database and its proposed research mission (00:48, 03:34).
+- PLOT-MC-RESEARCH-MISSION: examine Maude's appearances and imagine what occurs between scenes; scope and episode count remain open (03:34, 16:24).
+- PLOT-MC-MAUDE-ART: recurring art review introduced; Michael Baker T-shirt discussed and awarded ten Maudes out of ten (21:11–25:50). No confirmed sponsorship.
