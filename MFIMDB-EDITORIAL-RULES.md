@@ -84,3 +84,6 @@ The approved reference implementation is episode-001.html. Use its structure and
 
 
 The embedded episode is the viewing control; do not include a redundant Watch on YouTube navigation box. Preserve source links and timestamp functionality.
+
+## Cultural reference balance
+Popular culture should dominate literary essays: television, sitcoms, cartoons, comedy, pop music, genre cinema, toys, advertising and everyday cultural ephemera. Use occasional highbrow references to philosophy, literature, art or serious cinema when they genuinely illuminate the argument. Aim for intellectually ambitious, accessible criticism in the spirit of The Quietus, not academic prose. The transcript remains the backbone; references must serve its ideas rather than become a checklist. This refines the earlier highbrow/lowbrow balance rule.
