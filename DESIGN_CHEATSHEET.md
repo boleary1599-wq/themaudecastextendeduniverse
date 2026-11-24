@@ -58,4 +58,4 @@ No redundant Watch on YouTube box; the embed is the viewing control. Preserve so
 Transcript UI: one named heading per merged speaker turn, timed cue links seek embedded video, compact cue toggle, turn/cue count, TXT and JSON downloads, provisional notice and load-error fallback. Follow Editorial Bible for transcript content and attribution. Follow Continuity Bible for narrative evidence. Do not mark a page complete if any mandatory functionality is missing.
 
 ## Episode 2 status
-episode-002.html is committed as an incomplete draft. Original video and speaker-labelled transcript are pending; do not use it as a master template.
+episode-002.html is committed as an incomplete draft. Original video ID l0xsddmsFeg has been supplied; player verification and speaker-labelled transcript are pending; do not use it as a master template.
