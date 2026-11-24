@@ -83,3 +83,6 @@ Maintain separate character and plot ledgers for (A) the Maudecast Museum univer
 - PLOT-MC-MUSEUM-FOUNDATION: the podcast introduces the Maude Flanders Internet Museum, Theme Park and Database and its proposed research mission (00:48, 03:34).
 - PLOT-MC-RESEARCH-MISSION: examine Maude's appearances and imagine what occurs between scenes; scope and episode count remain open (03:34, 16:24).
 - PLOT-MC-MAUDE-ART: recurring art review introduced; Michael Baker T-shirt discussed and awarded ten Maudes out of ten (21:11–25:50). No confirmed sponsorship.
+
+## Naming standard
+The independent Maude-universe continuity panel is titled **Spectral Speculations**. It retains both Simpsons canon and clearly labelled speculative lore; the Museum continuity remains separate.
