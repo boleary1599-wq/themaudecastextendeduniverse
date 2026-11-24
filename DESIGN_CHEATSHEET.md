@@ -1,4 +1,5 @@
-# MFIMDb — Maudecast Design Cheat Sheet
+# MFIMDb Design Bible
+Version 2 — consolidated 24 November 2026
 
 ## APPROVED VISUAL REFERENCE (24 November 2026)
 The approved mock-up from this conversation is the **orange page with pale-blue, hand-drawn cartoon scroll/ribbon banners** reading “Inside MFIMDb”, “EPISODES”, “CHARACTERS”, “THEME PARK”, “THE MUSEUM”, “THE DATABASE”, “THE LORE” and a small “the MAUDE CAST” ribbon at the bottom. This is the reference for the **shape and lettering**, not a mandate to add unbuilt navigation destinations.
@@ -43,58 +44,18 @@ Connected GitHub can update text/HTML directly. For image assets, the earlier su
 
 **Design status:** The approved ribbon direction is implemented as functional SVG/HTML navigation in `inside.html`. The ribbon scale was reduced on 24 November 2026 to leave generous orange negative space. Keep reviewing the live rendering against the approved visual reference.
 
-## MFIMDb — Mandatory Transcript Rules
 
-**ALWAYS attribute every line of dialogue to a named speaker. NO EXCEPTIONS.**
+## Locked episode master — episode-001.html
+Use the approved reference implementation for every episode. Required order: header and title; metadata (episode number, duration, participants); concise introduction; embedded original YouTube video; six responsive clickable navigation boxes; six corresponding panels; return navigation.
+1. Museum Story (#story-so-far)
+2. Spectral Speculations (#maude-story)
+3. Literary Essay (#literary-essay)
+4. Mauditorium (#mauditorium)
+5. Sponsor (#sponsor)
+6. Full Transcript (#episode-transcript)
 
-1. **100% speaker attribution:** Every speaking turn must have a name. Never use "Unknown", "Unidentified" or blank labels.
-2. **Guess when necessary:** Use the audio, context and conversational flow to identify speakers. If uncertain, make your best educated guess and flag it internally for later correction.
-3. **Readable dialogue:** Format transcripts as conversations, with the speaker's name clearly displayed. Merge consecutive lines from the same speaker.
-4. **Clickable timestamps:** Every speaking turn should have a timestamp linking to that moment in the embedded YouTube video.
-5. **Correct Whisper errors:** Fix obvious transcription mistakes, particularly character names, without inventing dialogue or removing jokes and digressions.
-6. **YouTube is the source of truth:** Use the original YouTube video/audio as the authoritative reference. Whisper provides the initial transcription.
-7. **Episode-specific speakers:** For Episode 1, use Brendan and Nathan unless the audio establishes another speaker.
-8. **Retrospective corrections:** All uncertain attributions can be revised later as more evidence becomes available.
+No redundant Watch on YouTube box; the embed is the viewing control. Preserve source links. Keep the Museum and Spectral panels independent with orange and gold borders respectively. Main column 920px; deep purple #160f23, cream #f7e6bf, gold links #ffc451, orange #f47c24 header/video/nav borders; dark purple panels; Georgia essay typography. Navigation boxes: dark purple fill, orange border, gold text, visible hover and keyboard focus, wrapping on narrow screens. Include accessible skip link, focus states and reduced-motion support. No clipping or overflow.
+Transcript UI: one named heading per merged speaker turn, timed cue links seek embedded video, compact cue toggle, turn/cue count, TXT and JSON downloads, provisional notice and load-error fallback. Follow Editorial Bible for transcript content and attribution. Follow Continuity Bible for narrative evidence. Do not mark a page complete if any mandatory functionality is missing.
 
-**GOLDEN RULE: Every transcript must be complete, readable, timestamped and fully speaker-attributed. When in doubt, assign the most likely speaker rather than leaving a gap.**
-
-## Episode page editorial layout
-Follow MFIMDB-EDITORIAL-RULES.md and MFIMDB-CONTINUITY-GUIDE.md. After the video, show two distinct Story So Far strands (Maudecast Universe and Maude's Universe), a short Literary Essay, the Mauditorium, Sponsor, and Full Transcript. Preserve other episode-specific recurring segments. Use the approved purple episode palette and clear section navigation.
-
-## Separate continuity panels and long-form criticism
-Museum Story and Maude's Story must occupy completely separate, individually linked boxes, not subsections of a single panel. Keep the approved purple palette, with orange and gold borders distinguishing the two. Literary essays target approximately 800 words, with a distinct title, thematic subheadings and comfortable long-form typography.
-
-## Naming standard
-The independent Maude-universe continuity panel is titled **Spectral Speculations**. It retains both Simpsons canon and clearly labelled speculative lore; the Museum continuity remains separate.
-
-## Episode navigation boxes
-Below the video, use individually clickable, responsive menu boxes rather than inline underlined links. Dark purple fill, orange border, gold text, visible hover and keyboard focus; wrap on smaller screens. Use the approved section names, including Spectral Speculations.
-
-## Public continuity narrative voice
-Write the Museum Story and Spectral Speculations in a neutral, third-person narrative voice, as an unfolding account of characters and events. Avoid critical commentary, editorial process notes and references to characters who have not yet appeared. Keep literary interpretation in the essay. Do not display timestamps in either public story panel or its continuity ledger; retain source timestamps in internal continuity records and in the full transcript. Clearly distinguish canon from speculation where necessary.
-
-## Spectral Speculations — narrative priority (supersedes earlier public labelling rules)
-Lead the Spectral Speculations panel with Maudecast-created biography and developments, ahead of Simpsons background. Within the public MFIMDb story, treat established Maudecast lore as the continuity of this universe: narrate it directly in a neutral third-person voice, without repeated non-canon disclaimers, speculation labels or commentary about the hosts inventing it. Integrate relevant Simpsons background afterwards. Preserve genuine unresolved details without inventing certainty. Internally retain the source classification, original evidence, uncertain claims and distinction between Simpsons canon and MFIMDb canon; the Mauditorium must not present invented biography as verified Simpsons facts. This rule supersedes conflicting earlier requirements for public story-panel labels only.
-
-## Exhaustive factual detail and thematic criticism
-Capture ALL recoverable in-universe facts, including obsessive micro-details: every named puppet, pet, fictional programme, object, place, incidental character, exact relationship, number, habit and passing reference. Distinguish a reference or comparison from an established lore fact; retain unclear names for audio verification rather than guessing. The essay is original long-form cultural criticism in the spirit of The Quietus, approximately 800 words. Build a coherent thematic argument with the complete episode transcript as its core and backbone. Draw highbrow and lowbrow references both from within the transcript and from wider culture, connecting them substantively to specific transcript evidence. Never structure the essay as a segment-by-segment recap, checklist, or one heading per podcast item. Use a small number of conceptual headings only when they advance the argument. Revisit evidence across segments to develop and complicate the thesis. Avoid gratuitous references, unsupported claims and invented quotations.
-
-## Autonomous literary essay voice
-Treat the transcript as the intellectual source, not the subject of a podcast review. Develop its ideas directly as standalone cultural criticism. Do not name or refer to the hosts, brothers, speakers or their conversational dynamics; avoid formulations such as 'the hosts suggest', 'Nathan observes' or 'the brothers discuss'. Analyse Maude, the mythology, cultural objects and conceptual arguments themselves. Preserve transcript fidelity and internal evidence without narrating the act of podcasting. This supersedes earlier essay examples that foreground host commentary.
-
-## Locked master episode template — Episode 001: Maudtroductions
-The approved reference implementation is episode-001.html. Use its structure and editorial approach for every subsequent episode; never copy episode-specific facts into another episode. The required order is: header and episode title; metadata (number, duration, participants); concise introduction; embedded source YouTube video; six clickable navigation boxes (Museum Story, Spectral Speculations, Literary Essay, Mauditorium, Sponsor, Full Transcript); six corresponding content panels; return navigation.
-- Museum Story (#story-so-far): neutral third-person narrative of the Museum universe, deep extraction of every recoverable detail, thematic narrative subheadings and cumulative continuity ledger. No public timestamps or critical commentary.
-- Spectral Speculations (#maude-story): separate universe and panel, Maudecast mythology first, Simpsons background integrated afterwards, no public non-canon disclaimers, neutral narrative and cumulative ledger. Keep provenance and uncertainties internally.
-- Literary Essay (#literary-essay): distinctive title, approximately 800 words, autonomous thematic criticism with the transcript as backbone; high/low cultural references from inside and outside the episode. No host references, conversational recap or segment-by-segment structure. Episode 1's The Importance of Being Nobody is the editorial exemplar.
-- Mauditorium (#mauditorium): structured fact register with source timestamps and appropriate provenance; do not confuse invented mythology with verified Simpsons facts.
-- Sponsor (#sponsor): document actual sponsor material and relevant lore; explicitly distinguish jokes and unconfirmed sponsorship from confirmed advertising.
-- Full Transcript (#episode-transcript): complete named speaker turns, merge consecutive turns, retain timed cues, clickable timestamps controlling the embedded video, optional compact cue display, turn/cue count, downloadable TXT and JSON, honest provisional status and load-error fallback.
-- Visual system: deep purple #160f23, cream #f7e6bf, gold links #ffc451, orange #f47c24 header/video/nav borders; 920px main column; dark purple panels; separate orange-bordered Museum and gold-bordered Spectral panels; Georgia essay typography; responsive navigation boxes and mobile layout; accessible focus and skip link.
-- Before publication: read the three Bibles, complete two lore passes including obsessive micro-details, reconcile cumulative ledgers, check essay against the autonomous criticism standard, verify navigation/video/transcript functionality and update internal evidence records. Episode 1 is the approved structural and stylistic baseline, not a claim that its provisional transcript has been audio-verified. Its uncertain names and remaining transcription errors must still be resolved. New episode metadata, content, video ID and transcript paths must be independently sourced.
-
-
-The embedded episode is the viewing control; do not include a redundant Watch on YouTube navigation box. Preserve source links and timestamp functionality.
-
-## Cultural reference balance
-Popular culture should dominate literary essays: television, sitcoms, cartoons, comedy, pop music, genre cinema, toys, advertising and everyday cultural ephemera. Use occasional highbrow references to philosophy, literature, art or serious cinema when they genuinely illuminate the argument. Aim for intellectually ambitious, accessible criticism in the spirit of The Quietus, not academic prose. The transcript remains the backbone; references must serve its ideas rather than become a checklist. This refines the earlier highbrow/lowbrow balance rule.
+## Episode 2 status
+episode-002.html is committed as an incomplete draft. Original video and speaker-labelled transcript are pending; do not use it as a master template.
