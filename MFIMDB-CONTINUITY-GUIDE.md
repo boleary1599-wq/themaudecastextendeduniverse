@@ -122,3 +122,13 @@ The approved reference implementation is episode-001.html. Use its structure and
 
 
 The embedded episode is the viewing control; do not include a redundant Watch on YouTube navigation box. Preserve source links and timestamp functionality.
+
+
+## Episode 002 — Dead Putting Society: continuity evidence
+- 04:42–05:59: Brendan recently joined; Nathan several years' service; virtually full-time work; Museum closed; Thursday delivery of wobbling pens and Egyptian Simpsons memorabilia; life-sized Maude Sphinx in car park; unofficial visit; car park closure.
+- 06:08–07:48: rival Flawed Manders podcast; creator name and Keith surname unclear; favourite colour unresolved; mother listened to half and shared on Facebook.
+- 04:12–04:35: permanent fact register proposed; hypothetical asteroid and abrupt end at episode 32, not an actual event.
+- 27:05–31:19: MFIMDb mythology: Maude Goodman, Marilyn Goodman, 1954, Fargo/North Dakota wording retained as spoken (geographic ambiguity); farming community, miraculous conception motivates parental religion, uncomplicated natural home birth, midwife, grey pleasant dry weather. CHAR-MAUDE and new CHAR-MAUDE-MARILYN; PLOT-MAUDE-BIRTH.
+- 08:47–26:58: cartoon observations: club sandwiches, four-poster bed, homemade wind chimes, public prayer for safety, stillness at draw, lime-green Sunday outfit with lilac hat and pearl-like earrings; discarding outfit is conjecture, not established event. Sociopath theory mentioned but not adopted.
+- 31:27–38:59: Pablo JC (username provisional), customised Edna figure, Holy Rollers and mall bags, photos, Bible; Nathan's under-£10 Britney figure; proposed Britney head/Helen skirt/Miss Hoover torso; ratings 6.5 and 9; £20 discussed. New CHAR-MC-PABLO-JC, PLOT-MC-SPHINX, PLOT-MC-RIVAL-PODCAST, PLOT-MC-CUSTOM-FIGURE.
+- Source: recovered complete 308-line YouTube automatic transcript, transcripts/maudecast_ep2.txt. Video ID and speaker attribution not verified. Episode page published with explicit pending notice; no invented video link or speaker labels.
