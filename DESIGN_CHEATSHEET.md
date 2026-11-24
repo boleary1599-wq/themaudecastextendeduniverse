@@ -59,3 +59,6 @@ Transcript UI: one named heading per merged speaker turn, timed cue links seek e
 
 ## Episode 2 status
 episode-002.html is committed as an incomplete draft. Original video ID l0xsddmsFeg has been supplied; player verification and speaker-labelled transcript are pending; do not use it as a master template.
+
+## Narrative density and compact continuity reference
+Museum Story and Spectral Speculations should read like book chapters: combine closely related short paragraphs into substantial coherent passages, normally around 70–140 words where the material supports it. Keep thematic headings and natural breaks; do not pad or omit facts. The narrative remains at normal reading size. Character and continuity ledger entries use compact approximately 12.5–13px text, tight padding and two columns on desktop, one on narrow screens. Ledger headings are subordinate to narrative headings. Preserve readability and all existing evidence. Apply to Episode 1 master and all later episodes; literary essay typography remains unchanged.
