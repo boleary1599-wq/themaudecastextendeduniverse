@@ -60,3 +60,6 @@ Connected GitHub can update text/HTML directly. For image assets, the earlier su
 
 ## Episode page editorial layout
 Follow MFIMDB-EDITORIAL-RULES.md and MFIMDB-CONTINUITY-GUIDE.md. After the video, show two distinct Story So Far strands (Maudecast Universe and Maude's Universe), a short Literary Essay, the Mauditorium, Sponsor, and Full Transcript. Preserve other episode-specific recurring segments. Use the approved purple episode palette and clear section navigation.
+
+## Separate continuity panels and long-form criticism
+Museum Story and Maude's Story must occupy completely separate, individually linked boxes, not subsections of a single panel. Keep the approved purple palette, with orange and gold borders distinguishing the two. Literary essays target approximately 800 words, with a distinct title, thematic subheadings and comfortable long-form typography.
