@@ -66,3 +66,6 @@ Museum Story and Maude's Story must occupy completely separate, individually lin
 
 ## Naming standard
 The independent Maude-universe continuity panel is titled **Spectral Speculations**. It retains both Simpsons canon and clearly labelled speculative lore; the Museum continuity remains separate.
+
+## Episode navigation boxes
+Below the video, use individually clickable, responsive menu boxes rather than inline underlined links. Dark purple fill, orange border, gold text, visible hover and keyboard focus; wrap on smaller screens. Use the approved section names, including Spectral Speculations.
