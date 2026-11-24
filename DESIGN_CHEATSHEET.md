@@ -69,3 +69,6 @@ The independent Maude-universe continuity panel is titled **Spectral Speculation
 
 ## Episode navigation boxes
 Below the video, use individually clickable, responsive menu boxes rather than inline underlined links. Dark purple fill, orange border, gold text, visible hover and keyboard focus; wrap on smaller screens. Use the approved section names, including Spectral Speculations.
+
+## Public continuity narrative voice
+Write the Museum Story and Spectral Speculations in a neutral, third-person narrative voice, as an unfolding account of characters and events. Avoid critical commentary, editorial process notes and references to characters who have not yet appeared. Keep literary interpretation in the essay. Do not display timestamps in either public story panel or its continuity ledger; retain source timestamps in internal continuity records and in the full transcript. Clearly distinguish canon from speculation where necessary.
