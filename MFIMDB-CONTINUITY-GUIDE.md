@@ -92,3 +92,13 @@ Write the Museum Story and Spectral Speculations in a neutral, third-person narr
 
 ## Spectral Speculations — narrative priority (supersedes earlier public labelling rules)
 Lead the Spectral Speculations panel with Maudecast-created biography and developments, ahead of Simpsons background. Within the public MFIMDb story, treat established Maudecast lore as the continuity of this universe: narrate it directly in a neutral third-person voice, without repeated non-canon disclaimers, speculation labels or commentary about the hosts inventing it. Integrate relevant Simpsons background afterwards. Preserve genuine unresolved details without inventing certainty. Internally retain the source classification, original evidence, uncertain claims and distinction between Simpsons canon and MFIMDb canon; the Mauditorium must not present invented biography as verified Simpsons facts. This rule supersedes conflicting earlier requirements for public story-panel labels only.
+
+## Episode 1 expanded Museum continuity evidence
+- Nathan introduced as staff member number one; biological brother relationship and names (00:48–01:51). Nathan's longstanding Maude fandom and childhood response to her death (13:22–14:05); video compilation (03:59–04:32); prior Redbubble designs (23:14).
+- Brendan organises timed segments and acknowledges Nathan's greater expertise (05:50–06:41, 17:16–18:02).
+- Research scope: speaking appearances plus one significant silent appearance; potential 10–15 hosts; weekly/fortnightly cadence; commercial strategy and possible internet magnate (03:34–06:15).
+- CHAR-MC-NAMI: Brendan's daughter, beside him; triple-figure episode ambition reported by Brendan (16:24–16:44).
+- CHAR-MC-MICHAEL-BAKER: artist of first Maude Art exhibit, not established Museum staff or paid sponsor (22:48–25:50).
+- PLOT-MC-WORLD-WITHOUT-MAUDE: inaugural France discussion retained despite curators' reservations (26:45–31:51).
+- PLOT-MC-OUTRO-TRADITION: existing alternating-line songwriting practice, prolonged repetition and Nathan's annoyance; adapted to improvised episode outro (33:15–35:27). Exact name of earlier songwriting project unclear in Whisper; do not invent spelling.
+- For every episode, mine incidental dialogue for relationships, roles, staff, possessions, ambitions, prior history, institutional rules, traditions and running jokes. Public narrative remains neutral and timestamp-free; preserve supporting evidence internally. All above derived from provisional transcript, pending audio verification.
