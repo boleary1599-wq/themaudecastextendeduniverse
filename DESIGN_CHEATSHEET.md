@@ -74,3 +74,6 @@ Original video supplied by user: https://www.youtube.com/watch?v=an8PUSgJlb4 (ID
 
 ## Episode 004 source
 User-supplied original video: https://www.youtube.com/watch?v=rC5CrYN3ENE (ID rC5CrYN3ENE). Raw archive transcripts/maudecast_ep4.txt; final cue 1:02:28. Editorial page and named attribution pending. Video playback not independently verified.
+
+## Episode 004 publication
+Page episode-004.html committed with approved Museum Story, Spectral Speculations, The Pleasure of Being Right, compact ledgers, Mauditorium, sponsor status, video rC5CrYN3ENE and 459 caption cues through 1:02:28. Named attribution remains pending; do not describe this as complete. Episode 003 forward link and interior archive updated. Continuity: Kieran competition partner; Stamp 82, stranded 1.5 weeks; Sphinx dumped in local waterway causing flooding; Côte d’Ivoire pop-up and Turkish branch; Uncle Statman John, Stevie D Maude Star, Tom Stray Dog carrier pigeon, Face Forward Simpsons. Maude: Helen alliance, cartoon protest, David protest, mall with sons, retirement-home queue, ages and schooling unresolved. Distinguish conjecture from observed actions.
