@@ -82,3 +82,6 @@ Episode 004 official title confirmed from original YouTube embed: Itchy and Scra
 
 ## Speaker-turn boundary rule (25 November 2026)
 When attributing dialogue, start a new named speaker at a natural sentence ending or completed thought wherever possible, rather than mechanically at an automatic caption boundary halfway through a sentence. Inspect the surrounding dialogue, split mixed-speaker captions at the actual conversational handover, and preserve every word and original cue in the archive. Genuine interruptions and unfinished sentences may remain where context supports them. Always use the best contextual named attribution; never use Unknown, Unidentified or blank speaker names. Record uncertainty in metadata. Review the finished reading edition for mid-sentence attribution errors before publication.
+
+## Episode 005 source register
+Original video supplied by user: https://www.youtube.com/watch?v=tzD6jFeaZ_w (ID tzD6jFeaZ_w). Archived source: transcripts/maudecast_ep5.txt; final cue 1:06:54. Exact title and upload metadata not independently verified; direct video fetch failed. Editorial page pending. For subsequent episodes attempt official channel catalogue discovery before requesting a link from the user; retain discovered video IDs permanently.
