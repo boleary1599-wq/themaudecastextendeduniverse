@@ -73,3 +73,6 @@ Supersedes earlier visible timestamp requirements: display one clickable checkpo
 
 ## Episode 003 source
 Original video supplied by user: https://www.youtube.com/watch?v=an8PUSgJlb4 (ID an8PUSgJlb4). Archive transcripts/maudecast_ep3.txt; final cue 50:34; page episode-003.html. Embed and caption reading edition committed; named attribution and playback verification pending.
+
+## Episode 004 source
+User-supplied original video: https://www.youtube.com/watch?v=rC5CrYN3ENE (ID rC5CrYN3ENE). Raw archive transcripts/maudecast_ep4.txt; final cue 1:02:28. Editorial page and named attribution pending. Video playback not independently verified.
