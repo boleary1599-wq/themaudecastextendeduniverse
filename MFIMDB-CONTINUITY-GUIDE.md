@@ -70,3 +70,6 @@ In each of Museum Story and Spectral Speculations, separate The Story So Far (pr
 
 ## Transcript reading mode — latest rule
 Supersedes earlier visible timestamp requirements: display one clickable checkpoint approximately every five minutes (up to ten minutes where natural). Do not display line-by-line timestamps. Join consecutive caption fragments into readable prose within each named speaker turn. Show speaker names only when the speaker changes. Preserve every original cue and precise timestamp in the underlying TXT/JSON archive for research and future navigation. Do not discard dialogue.
+
+## Episode 003 source
+Original video supplied by user: https://www.youtube.com/watch?v=an8PUSgJlb4 (ID an8PUSgJlb4). Archive transcripts/maudecast_ep3.txt; final cue 50:34; page episode-003.html. Embed and caption reading edition committed; named attribution and playback verification pending.
