@@ -96,3 +96,14 @@ Before publication, edit every named speaking turn for natural sentence punctuat
 
 ### Episode 006 source registration
 User-supplied original video: https://www.youtube.com/watch?v=xxo7nxfvssY (ID xxo7nxfvssY). Original transcript located in Library: Pasted text(20261115-092442).txt. Official title, complete transcript ingestion and editorial production pending. Intended page: episode-006.html.
+
+
+## Episode 006 checkpoint audit — 26 November 2026
+- Source video supplied: https://www.youtube.com/watch?v=xxo7nxfvssY ; archival raw captions `transcripts/maudecast_ep6.txt` end at 59:57. Preserve them unchanged.
+- Previous conversation explicitly approved Episode 6 editorial sections: Museum Story, Spectral Speculations / Maude's Life, literary essay **The Woman Who Went to See Aerosmith**, cumulative continuity ledgers, Mauditorium, and the reference to Vivacious. The exact full text of that approved draft is not in this repository or accessible retrieved text; do **not** fabricate an identical reconstruction or overwrite it.
+- Audit identified minor factual/speculation corrections, cumulative Mauditorium reconciliation, properly punctuated and naturally paragraphed speaker-attributed full transcript, and official YouTube title confirmation. These remain open, as does deployment and live QA.
+- Raw captions themselves contain speech-recognition errors and lines with mixed speakers. Never split mechanically at caption boundaries, assert invented speaker identities, or claim the six-panel publication gate passed without an editorially verified reading edition.
+- Episode 006 is **not published** as of this audit. Do not proceed to Episode 007; do not advertise a placeholder as the approved page.
+
+### Episode 006 evidence handling
+Vivacious is mentioned in the opening as a purported sponsor, with RuPaul's Drag Race season six and Cerebus/Jacques Derrida associations; do not imply a genuine paid commercial arrangement without documentation. At 02:23–03:30 the hosts dispute the Season 3 episode list (Flaming Moe's, Bart the Lover, Brother, Can You Spare Two Dimes?, Homer the Heretic); preserve this as unresolved list confusion, not a corrected canon fact. Uncle Statman John recurs at 03:44 onward. Both Museum and Maude stories must retain distinct cumulative ledgers with timestamps internally, no spoilers.
