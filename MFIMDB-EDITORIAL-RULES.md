@@ -116,3 +116,6 @@ Applies retroactively to Episodes 1–8 and to all future pages:
 - Sponsor panel: only **Sponsors**, names and any attested short slogans/gags; no timestamps, source notes, commercial disclaimers or explanatory commentary. Do not fabricate sponsor credits.
 - Transcript: speaker names alone, with no GUESS or uncertainty markers visible. Keep provenance/confidence in internal source records for checking.
 - Canonical vocabulary: **Flandball**, never “Flungball”, in the fictional competition's context. See MFIMDB-CANON-DICTIONARY.md.
+
+### Story So Far length override (28 November 2026)
+For **each** of the two episode narratives (Museum Story and Spectral Speculations/Maude's Life), the rolling **Story So Far** recap should target **about 225 words maximum** rather than the earlier ~300-word standard. Compress without losing essential continuity, character relationships, unresolved threads or provenance distinctions; keep **This Episode** separate and sufficiently detailed. Do not pad earlier episodes already below the ceiling. Applies retroactively to Episodes 1–8 and all future episodes. Episode 8 verified at 215 Museum words and 224 Maude words.
