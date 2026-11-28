@@ -109,3 +109,7 @@ Use episode-001.html as structural master, with the existing six panels, deep-pu
 
 ### Mauditorium panel border — 28 November 2026
 Use a 2px solid orange (#f47c24) outline around the entire Mauditorium panel, retaining its existing purple background, rounded corners, spacing and discovery-first content. CSS: `#mauditorium{border:2px solid #f47c24}`. Backdated to Episodes 1–8 and verified in repository. Live visual QA pending.
+
+
+### Sponsor credit refinement — 28 November 2026
+Sponsors use a restrained double gold outline, subtle purple radial gradient, centered individual bordered credit cards, larger Georgia sponsor names on their own lines, smaller italic existing slogans, a gold heading ornament and a small star below. No invented sponsor content. Applied to Episodes 1–8; repository readback verified, live visual QA pending.
