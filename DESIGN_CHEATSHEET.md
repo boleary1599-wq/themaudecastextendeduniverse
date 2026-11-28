@@ -133,3 +133,7 @@ Retain deep relief and gold plaque styling, but reduce sponsor name size to clam
 
 ### Sponsor plaque ornament removal — 28 November 2026
 Remove the small diamond ornaments above and below each individual sponsor name. Keep the gold plaques, deep relief dark bronze lettering and outer panel styling unchanged. Applied to Episodes 1–8; repository verified, live visual QA pending.
+
+
+### Episode 8 model and narrative-only character cards — 28 November 2026
+Episode 008 (The Flandball Inheritance) is the approved model for future episode pages, superseding earlier page-model references where they conflict. Character continuity cards should read as in-universe descriptions of the character's established story so far, incorporating current episode developments where supported. If a character has no new activity, simply retain their relevant established story; never append editorial absence notices such as 'No new Episode 8 activity established' or 'No further individual action confirmed in this episode's ledger'. Do not invent activity. Preserve uncertainty about actual disputed events and keep audit notes in the internal ledger. Museum cards reviewed across Episodes 1–8 and corrected wherever needed. Model approval concerns editorial/design presentation, not outstanding transcript audio or live visual QA.
