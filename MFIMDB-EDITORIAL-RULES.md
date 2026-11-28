@@ -148,3 +148,7 @@ Backdated discovery-first Mauditorium to Episodes 1–8 on 28 November 2026. Epi
 
 ### Mauditorium featured labels
 Maximum five featured discoveries, fewer if evidence does not support five. Begin every bullet with a bold, one-word title followed by a full stop, then the concrete fact and what it reveals about Maude. Backdated to Episodes 1–8; remaining discoveries belong in Elsewhere in the Mauditorium. Retain the original research Google Doc link.
+
+
+### Episode 8 model and narrative-only character cards — 28 November 2026
+Episode 008 (The Flandball Inheritance) is the approved model for future episode pages, superseding earlier page-model references where they conflict. Character continuity cards should read as in-universe descriptions of the character's established story so far, incorporating current episode developments where supported. If a character has no new activity, simply retain their relevant established story; never append editorial absence notices such as 'No new Episode 8 activity established' or 'No further individual action confirmed in this episode's ledger'. Do not invent activity. Preserve uncertainty about actual disputed events and keep audit notes in the internal ledger. Museum cards reviewed across Episodes 1–8 and corrected wherever needed. Model approval concerns editorial/design presentation, not outstanding transcript audio or live visual QA.
