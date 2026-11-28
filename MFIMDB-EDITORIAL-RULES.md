@@ -134,3 +134,7 @@ Refinement superseding any expectation of an exhaustive list: give **one short, 
 
 ### Mauditorium secondary-notes footer (28 November 2026)
 Backdated to Episodes **1–8**. Under the selective sentence-length Mauditorium bullets, add a small, visually subordinate **“Elsewhere in the Mauditorium.”** paragraph (typically one or two sentences) collecting **genuinely relevant episode-specific observations omitted from the main bullets**. Avoid duplicating the highlighted bullets, inventing facts, exhaustive itemisation, or turning the footer into a second research essay. Use a subtle top rule and smaller type. The main bullets remain the featured observations; the footer is an optional compact catch-all only when supported by the episode material.
+
+
+### Episode 8 literary essay checkpoint — 2026-11-28
+Approved and committed **The Unbearable Strangeness of Being Maude** (878 words, nine paragraphs, no thematic subheadings), replacing the pending placeholder. Transcript-led revision integrates Derrida, eyeshadow, diary, Flandball, civic rejection and mob participation, Valentine's Day, shoe buffer, Ann Landers, naming and collective authorship, and elastic time. Speculation remains explicitly conditional. Essay section verified in repository; live rendering and provisional transcript audio QA remain outstanding. Commit `d14cb06d6f2ec2bcbbe690c2da31ce084fec0e7c`.
