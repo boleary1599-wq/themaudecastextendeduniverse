@@ -117,3 +117,7 @@ Sponsors use a restrained double gold outline, subtle purple radial gradient, ce
 
 ### Metallic sponsor plaques — 28 November 2026
 Supersedes the purple individual sponsor card treatment: each sponsor credit is a metallic gold plaque with a multi-stop reflective gradient, double gold bevel, inset highlight, shadow, dark engraved-style serif lettering and small diamond ornaments. Retain the purple outer panel and existing sponsor names and slogans. Backdated to Episodes 1–8 and verified in repository; live visual QA pending.
+
+
+### Embossed sponsor lettering — 28 November 2026
+Gold plaque sponsor names use heavy dark bronze serif lettering, subtle text stroke, increased tracking and layered highlight/shadow text effects for raised relief. Slogans retain a lighter highlight. Backdated to Episodes 1–8, repository verified; live visual QA pending.
