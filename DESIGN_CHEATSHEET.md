@@ -113,3 +113,7 @@ Use a 2px solid orange (#f47c24) outline around the entire Mauditorium panel, re
 
 ### Sponsor credit refinement — 28 November 2026
 Sponsors use a restrained double gold outline, subtle purple radial gradient, centered individual bordered credit cards, larger Georgia sponsor names on their own lines, smaller italic existing slogans, a gold heading ornament and a small star below. No invented sponsor content. Applied to Episodes 1–8; repository readback verified, live visual QA pending.
+
+
+### Metallic sponsor plaques — 28 November 2026
+Supersedes the purple individual sponsor card treatment: each sponsor credit is a metallic gold plaque with a multi-stop reflective gradient, double gold bevel, inset highlight, shadow, dark engraved-style serif lettering and small diamond ornaments. Retain the purple outer panel and existing sponsor names and slogans. Backdated to Episodes 1–8 and verified in repository; live visual QA pending.
