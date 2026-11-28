@@ -1,492 +1,491 @@
 MAUDECAST EPISODE 8 — PROVISIONAL SPEAKER-ATTRIBUTED EDITION
-All Brendan/Nathan labels are GUESSES inferred from caption text and conversational pivots; NOT audio-verified.
 Sentence punctuation is a provisional readability pass. Original 1,313 caption cues are preserved in the JSON.
 Source: https://www.youtube.com/watch?v=5DWlilLz7tM
 
-[00:00:58] Brendan [GUESS]: [Music] yes like an infinity on its side who would have even thought we would reach episode 8 the second of the numbers from Lost that we have reached.
+[00:00:58] Brendan: [Music] yes like an infinity on its side who would have even thought we would reach episode 8 the second of the numbers from Lost that we have reached.
 
-[00:00:58] Nathan [GUESS]: Oh and our second Lost reference in a row is it yeah last week last we referenced how so last week we had we talked about the The Tempest and how odd it would've been better as with all of Shakespeare's plays had Maude Flanders appeared in it and how it was a prequel to Lost and you know what we.
+[00:00:58] Nathan: Oh and our second Lost reference in a row is it yeah last week last we referenced how so last week we had we talked about the The Tempest and how odd it would've been better as with all of Shakespeare's plays had Maude Flanders appeared in it and how it was a prequel to Lost and you know what we.
 
-[00:00:58] Brendan [GUESS]: Actually weren't the only person who done that so I did a quick a bit of a search in a section that we.
+[00:00:58] Brendan: Actually weren't the only person who done that so I did a quick a bit of a search in a section that we.
 
-[00:01:44] Nathan [GUESS]: Might later call a week too late and there's a t-shirt on the internet called The Tempest is really just a prequel of Lost so we're not the only ones who had that great idea you know another TV.
+[00:01:44] Nathan: Might later call a week too late and there's a t-shirt on the internet called The Tempest is really just a prequel of Lost so we're not the only ones who had that great idea you know another TV.
 
-[00:01:44] Brendan [GUESS]: So that would have been that would be better if Maude Flanders was in it the tiger thing yes well I was gonna say all of them.
+[00:01:44] Brendan: So that would have been that would be better if Maude Flanders was in it the tiger thing yes well I was gonna say all of them.
 
-[00:01:44] Nathan [GUESS]: So that one that's covered under that umbrella so strange thing to say actually a bit Lost now that you've mentioned it now that I've mentioned when I was nearly finished number seven when I was putting the pictures on I decided because the know you asked me to take numbers last week.
+[00:01:44] Nathan: So that one that's covered under that umbrella so strange thing to say actually a bit Lost now that you've mentioned it now that I've mentioned when I was nearly finished number seven when I was putting the pictures on I decided because the know you asked me to take numbers last week.
 
-[00:01:44] Brendan [GUESS]: Yes and the two numbers that I picked with two of the numbers from Lost so the image I put on was the number from Lost.
+[00:01:44] Brendan: Yes and the two numbers that I picked with two of the numbers from Lost so the image I put on was the number from Lost.
 
-[00:02:29] Nathan [GUESS]: And then I realized over that image we then stay talking about the tempest and Lost was not connected its brokey spooky that's all I can say and I'd like he maybe we could add multiple multiple irrelevant Lost references scattered through this podcast that'll be good something funny Lost fun who's wandered in here and he's kind of stuck because maybe there are arms.
+[00:02:29] Nathan: And then I realized over that image we then stay talking about the tempest and Lost was not connected its brokey spooky that's all I can say and I'd like he maybe we could add multiple multiple irrelevant Lost references scattered through this podcast that'll be good something funny Lost fun who's wandered in here and he's kind of stuck because maybe there are arms.
 
-[00:02:29] Brendan [GUESS]: Behind her back and they can't turn off the podcast so they got a listen against their will to this mod Flanders best podcast but every little just every little droplet of Lost that we can give them will just brighten up their day while they're in that prison.
+[00:02:29] Brendan: Behind her back and they can't turn off the podcast so they got a listen against their will to this mod Flanders best podcast but every little just every little droplet of Lost that we can give them will just brighten up their day while they're in that prison.
 
-[00:02:29] Nathan [GUESS]: So this to do you mean to drop a Twin.
+[00:02:29] Nathan: So this to do you mean to drop a Twin.
 
-[00:03:14] Brendan [GUESS]: Peaks caught in there as well I was accidental no I don't know and this is it I don't know what did I say about arms being bent back that's a Laura Palmer creepy dream quote creepy dream nobody we can drop in Twin Peaks references that should help if there was somebody who's also in a different basement being held hostage and being forced.
+[00:03:14] Brendan: Peaks caught in there as well I was accidental no I don't know and this is it I don't know what did I say about arms being bent back that's a Laura Palmer creepy dream quote creepy dream nobody we can drop in Twin Peaks references that should help if there was somebody who's also in a different basement being held hostage and being forced.
 
-[00:03:14] Nathan [GUESS]: To listen to this podcast I fear we may be in the weeds here a little bit within the first few minutes of this show and I'd like to just get this more train back on track by telling you there this episode is brought to you by the mr mod casting Corporation a subsidiary of the Divini incorporated multi global national corporation our sponsors.
+[00:03:14] Nathan: To listen to this podcast I fear we may be in the weeds here a little bit within the first few minutes of this show and I'd like to just get this more train back on track by telling you there this episode is brought to you by the mr mod casting Corporation a subsidiary of the Divini incorporated multi global national corporation our sponsors.
 
-[00:03:14] Brendan [GUESS]: As you know are vivacious as I mentioned already serviced the aardvark and Jacque rest in peace we talked about this and I.
+[00:03:14] Brendan: As you know are vivacious as I mentioned already serviced the aardvark and Jacque rest in peace we talked about this and I.
 
-[00:04:00] Nathan [GUESS]: Said no dead either it's serious as heck and I want to throw it out at I quote at you and see if you can recontextualize it.
+[00:04:00] Nathan: Said no dead either it's serious as heck and I want to throw it out at I quote at you and see if you can recontextualize it.
 
-[00:04:00] Brendan [GUESS]: Okay yes monsters cannot be announced one cannot say here are our monsters without immediately turning the monsters into pets yeah the end of that was unexpected I thought you were gonna say heroes not pets.
+[00:04:00] Brendan: Okay yes monsters cannot be announced one cannot say here are our monsters without immediately turning the monsters into pets yeah the end of that was unexpected I thought you were gonna say heroes not pets.
 
-[00:04:00] Nathan [GUESS]: So well mods a bit of a monster but nobody ever says say so it's just sort of subtext well it's not really subtext just text text she's just a straight Rutter she's straight a Trotter at times and.
+[00:04:00] Nathan: So well mods a bit of a monster but nobody ever says say so it's just sort of subtext well it's not really subtext just text text she's just a straight Rutter she's straight a Trotter at times and.
 
-[00:04:00] Brendan [GUESS]: Guess what David is saying there is if you announce the monstrance here's the big bad guy and then you.
+[00:04:00] Brendan: Guess what David is saying there is if you announce the monstrance here's the big bad guy and then you.
 
-[00:04:45] Nathan [GUESS]: Actually define the big bad guy you gotta have that mystery in that sneakiness so maybe more and as you say she is a monster.
+[00:04:45] Nathan: Actually define the big bad guy you gotta have that mystery in that sneakiness so maybe more and as you say she is a monster.
 
-[00:04:45] Brendan [GUESS]: But we don't announce her monstrousness that we do see it often yes more more and more frequently as time goes on but I've said this.
+[00:04:45] Brendan: But we don't announce her monstrousness that we do see it often yes more more and more frequently as time goes on but I've said this.
 
-[00:05:01] Nathan [GUESS]: Before I do you think before she dies we see her getting worse and worse but this is she just as bad after death yes sometimes there's an episode that I really don't like it's gonna be it's literally the second to last one we're gonna walk out though.
+[00:05:01] Nathan: Before I do you think before she dies we see her getting worse and worse but this is she just as bad after death yes sometimes there's an episode that I really don't like it's gonna be it's literally the second to last one we're gonna walk out though.
 
-[00:05:01] Brendan [GUESS]: So we've got a while right she ghost in that and she's a just a bit of a dick to everybody can't say I'm not looking forward to more dickish ness and she's a little bit of a jagbag often isn't she.
+[00:05:01] Brendan: So we've got a while right she ghost in that and she's a just a bit of a dick to everybody can't say I'm not looking forward to more dickish ness and she's a little bit of a jagbag often isn't she.
 
-[00:05:01] Nathan [GUESS]: But then again she's often playing that role of the supporter and so she has those two sides somewhat of a Jellicle and hide you might say if you're writing a cat's best musical best on a Victorian horror.
+[00:05:01] Nathan: But then again she's often playing that role of the supporter and so she has those two sides somewhat of a Jellicle and hide you might say if you're writing a cat's best musical best on a Victorian horror.
 
-[00:05:01] Brendan [GUESS]: So what I'd like to point out is that I loved the bird song that's often going on and there's.
+[00:05:01] Brendan: So what I'd like to point out is that I loved the bird song that's often going on and there's.
 
-[00:05:47] Nathan [GUESS]: Not fake it's real birds that you have trapped in your room yes hundreds of birds in your room unlike a cat lady you're a bird man the bird mom the bird man.
+[00:05:47] Nathan: Not fake it's real birds that you have trapped in your room yes hundreds of birds in your room unlike a cat lady you're a bird man the bird mom the bird man.
 
-[00:05:47] Brendan [GUESS]: So heaters Keaton he did a good job in that didn't he yeah no wait last week we announced the bombshell that we had phoned wrapped up in cheap vines in the corner of in a dusty corner of the mod mod z 'm we had found a what could I be described as the diary of a dead woman and a dead woman is.
+[00:05:47] Brendan: So heaters Keaton he did a good job in that didn't he yeah no wait last week we announced the bombshell that we had phoned wrapped up in cheap vines in the corner of in a dusty corner of the mod mod z 'm we had found a what could I be described as the diary of a dead woman and a dead woman is.
 
-[00:05:47] Nathan [GUESS]: Maude Flanders now last week you did as the honour of reading a page from that diary now I'm not going to put I'm not going to say that you want to be giving away all of Maude secrets.
+[00:05:47] Nathan: Maude Flanders now last week you did as the honour of reading a page from that diary now I'm not going to put I'm not going to say that you want to be giving away all of Maude secrets.
 
-[00:05:47] Brendan [GUESS]: But how do you feel about dropping another batch of.
+[00:05:47] Brendan: But how do you feel about dropping another batch of.
 
-[00:06:33] Nathan [GUESS]: Knowledge on us from that not home it seems only right all righty please lay it at our feet would you to pick a page or a time um.
+[00:06:33] Nathan: Knowledge on us from that not home it seems only right all righty please lay it at our feet would you to pick a page or a time um.
 
-[00:06:33] Brendan [GUESS]: Yeah I'd like to pick page 93 okay it says it's the 18th of September 1997 and preparing for a trip away with my mother to something like the Twin Cities I can't remember metal tell me it's I'm kind of excited to go.
+[00:06:33] Brendan: Yeah I'd like to pick page 93 okay it says it's the 18th of September 1997 and preparing for a trip away with my mother to something like the Twin Cities I can't remember metal tell me it's I'm kind of excited to go.
 
-[00:06:33] Nathan [GUESS]: But I'm still a little bit nervous because I haven't seen my mother for a while and I know that she's having trouble at the minute with repressed memories of being a human limb.
+[00:06:33] Nathan: But I'm still a little bit nervous because I haven't seen my mother for a while and I know that she's having trouble at the minute with repressed memories of being a human limb.
 
-[00:06:33] Brendan [GUESS]: So I'm really looking forward to spending a bit more time with her I think Helen Lovejoy.
+[00:06:33] Brendan: So I'm really looking forward to spending a bit more time with her I think Helen Lovejoy.
 
-[00:07:20] Nathan [GUESS]: Has been stealing pickles from most Hubbard every time I see her she reeks of pickles but I know for a fact that Jessica Lovejoy is allergic to pickles.
+[00:07:20] Nathan: Has been stealing pickles from most Hubbard every time I see her she reeks of pickles but I know for a fact that Jessica Lovejoy is allergic to pickles.
 
-[00:07:20] Brendan [GUESS]: So she can't be taking them home from I gather from the other side ball was outside my window who told me that the typical numbers a day to be continued the whole pickle thing for me was a revelation because I've never even considered that a pickle thief would be in our midst I did want to follow up on there was more Lovejoy.
+[00:07:20] Brendan: So she can't be taking them home from I gather from the other side ball was outside my window who told me that the typical numbers a day to be continued the whole pickle thing for me was a revelation because I've never even considered that a pickle thief would be in our midst I did want to follow up on there was more Lovejoy.
 
-[00:07:20] Nathan [GUESS]: Bashing there you know obviously on the surface that kind of friends but it seems like she's type likes to take private jobs that have Lovejoy whenever she can now last week she made the bold claim I don't know what date that page was from.
+[00:07:20] Nathan: Bashing there you know obviously on the surface that kind of friends but it seems like she's type likes to take private jobs that have Lovejoy whenever she can now last week she made the bold claim I don't know what date that page was from.
 
-[00:07:20] Brendan [GUESS]: But she made the bold claim the Helen Lovejoy.
+[00:07:20] Brendan: But she made the bold claim the Helen Lovejoy.
 
-[00:08:06] Nathan [GUESS]: Was having an affair now is that is that something we knew from cannon before is that new cannon because I do wanna point out that this this diary being Maude's actual diary is 100% canon everything everything that he said his cannon.
+[00:08:06] Nathan: Was having an affair now is that is that something we knew from cannon before is that new cannon because I do wanna point out that this this diary being Maude's actual diary is 100% canon everything everything that he said his cannon.
 
-[00:08:06] Brendan [GUESS]: So yeah half and half there's been speculation but I think mods mods the first ones who come out and say it she did used to be Amanda Helen Lovejoy I thought.
+[00:08:06] Brendan: So yeah half and half there's been speculation but I think mods mods the first ones who come out and say it she did used to be Amanda Helen Lovejoy I thought.
 
-[00:08:06] Nathan [GUESS]: Well they did a throwaway line in like season 21 or something so that's technically in that she was born Harold something yeah because I did have a theory that's in the moratorium that one day you might come across that Helen and more to somewhat interchangeable especially in their backstories book that's a.
+[00:08:06] Nathan: Well they did a throwaway line in like season 21 or something so that's technically in that she was born Harold something yeah because I did have a theory that's in the moratorium that one day you might come across that Helen and more to somewhat interchangeable especially in their backstories book that's a.
 
-[00:08:52] Brendan [GUESS]: Revelation unless of course you're going to all to claim that Maude was born a man no we are more likely a bit baby male to be born an actual man would be would be above and beyond expectations.
+[00:08:52] Brendan: Revelation unless of course you're going to all to claim that Maude was born a man no we are more likely a bit baby male to be born an actual man would be would be above and beyond expectations.
 
-[00:08:52] Nathan [GUESS]: Yes no more was born Maude Maude is excess female and any day she was born shall we take a trip down to the mod lenses that museums the impact database book depository fish hungry hot k restaurants and insect shop you have a couple of weeks.
+[00:08:52] Nathan: Yes no more was born Maude Maude is excess female and any day she was born shall we take a trip down to the mod lenses that museums the impact database book depository fish hungry hot k restaurants and insect shop you have a couple of weeks.
 
-[00:08:52] Brendan [GUESS]: So you can find us just stuff worse the men's metal carpark now I know you're excited because it was only it was only seven years ago that you won this museum in a flung ball competition and the annual global fun ball competition obviously being held online this year is coming up in three.
+[00:08:52] Brendan: So you can find us just stuff worse the men's metal carpark now I know you're excited because it was only it was only seven years ago that you won this museum in a flung ball competition and the annual global fun ball competition obviously being held online this year is coming up in three.
 
-[00:09:38] Nathan [GUESS]: Weeks and our staff is training for it so how's the training going for the fun ball competition it's good it's very intense and they still have.
+[00:09:38] Nathan: Weeks and our staff is training for it so how's the training going for the fun ball competition it's good it's very intense and they still have.
 
-[00:09:38] Brendan [GUESS]: No idea that I'm gonna I'm gonna cancel on the morning that we what swabs to be doing it so you're going to withdraw our team from the competition.
+[00:09:38] Brendan: No idea that I'm gonna I'm gonna cancel on the morning that we what swabs to be doing it so you're going to withdraw our team from the competition.
 
-[00:09:38] Nathan [GUESS]: Yeah I'm gonna forfeit for that I just might.
+[00:09:38] Nathan: Yeah I'm gonna forfeit for that I just might.
 
-[00:10:00] Brendan [GUESS]: It's morale building team building rights we're going through that adversity together yeah but they I'm not telling anybody cuz I need them to be ready in case anything comes up.
+[00:10:00] Brendan: It's morale building team building rights we're going through that adversity together yeah but they I'm not telling anybody cuz I need them to be ready in case anything comes up.
 
-[00:10:00] Nathan [GUESS]: So they need the training still okay well it's three weeks away yeah those 17 hours a day of training aren't going anywhere no that's good morale there especially again as we say at these online times that are trying for some people know some people think this stamp some people were surprised when I tell them as a flam ball team they they thought.
+[00:10:00] Nathan: So they need the training still okay well it's three weeks away yeah those 17 hours a day of training aren't going anywhere no that's good morale there especially again as we say at these online times that are trying for some people know some people think this stamp some people were surprised when I tell them as a flam ball team they they thought.
 
-[00:10:00] Brendan [GUESS]: Stamp was the only employee but obviously we have a staff of 75 people who work at the mod funders internet museum theme park it's best because we fished mongery and in hockey restaurants and stag beetle Emporium.
+[00:10:00] Brendan: Stamp was the only employee but obviously we have a staff of 75 people who work at the mod funders internet museum theme park it's best because we fished mongery and in hockey restaurants and stag beetle Emporium.
 
-[00:10:45] Nathan [GUESS]: They so by no means is this a one stamp operation no there's loads of people and I keep telling them how good of a job they're doing and how you know way that we can't possibly win this year.
+[00:10:45] Nathan: They so by no means is this a one stamp operation no there's loads of people and I keep telling them how good of a job they're doing and how you know way that we can't possibly win this year.
 
-[00:10:45] Brendan [GUESS]: So building them up just to knock them down yeah it's emotional manipulation it's Machiavellian and there's no other word for it other than sneaky another I'd be another word for it it's Martin it is mod isn't embodies mod very the very dream of that now just to shift gears a little bit cuz as you know we're still up to our neck in.
+[00:10:45] Brendan: So building them up just to knock them down yeah it's emotional manipulation it's Machiavellian and there's no other word for it other than sneaky another I'd be another word for it it's Martin it is mod isn't embodies mod very the very dream of that now just to shift gears a little bit cuz as you know we're still up to our neck in.
 
-[00:10:45] Nathan [GUESS]: Debt for this three hundred thousand pounds we all for throwing that Sphinx and foot in those old people's homes so we I got sued for three hundred thousand pounds and.
+[00:10:45] Nathan: Debt for this three hundred thousand pounds we all for throwing that Sphinx and foot in those old people's homes so we I got sued for three hundred thousand pounds and.
 
-[00:11:31] Brendan [GUESS]: Basically as a plea bargain to get a fiber knocked off you are writing a one-man play about mod he tell us a little bit about what the plot might be and how you're moving along in that in that script.
+[00:11:31] Brendan: Basically as a plea bargain to get a fiber knocked off you are writing a one-man play about mod he tell us a little bit about what the plot might be and how you're moving along in that in that script.
 
-[00:11:31] Nathan [GUESS]: Yeah I can't tell you anything about plot but I can tell you that I've studied the casting call and the oh no it's a one month show you can have other people in it though one man is just a they're just a suggestion.
+[00:11:31] Nathan: Yeah I can't tell you anything about plot but I can tell you that I've studied the casting call and the oh no it's a one month show you can have other people in it though one man is just a they're just a suggestion.
 
-[00:11:31] Brendan [GUESS]: No I'm gonna stick to the rules by I'm still gonna do a casting call and tell people that they've got the role and then just never contact like.
+[00:11:31] Brendan: No I'm gonna stick to the rules by I'm still gonna do a casting call and tell people that they've got the role and then just never contact like.
 
-[00:11:31] Nathan [GUESS]: Yes I think there's a femoral pain there but I can't say I don't I don't I can't say that I'm not excited about this journey that you're on.
+[00:11:31] Nathan: Yes I think there's a femoral pain there but I can't say I don't I don't I can't say that I'm not excited about this journey that you're on.
 
-[00:11:31] Brendan [GUESS]: So can you tell me anything about the play like because you know as.
+[00:11:31] Brendan: So can you tell me anything about the play like because you know as.
 
-[00:12:16] Nathan [GUESS]: Judge Roswell no relation said this play needs to be put on before before your birthday Pacific Lee and strangely she said that if it gets to your birthday and you've not put it on then we'll all go to jail.
+[00:12:16] Nathan: Judge Roswell no relation said this play needs to be put on before before your birthday Pacific Lee and strangely she said that if it gets to your birthday and you've not put it on then we'll all go to jail.
 
-[00:12:16] Brendan [GUESS]: Yeah it'll be done the only thing I can tell you is that there's a seven and a half minute dance interlude featuring stomp in a wedding go.
+[00:12:16] Brendan: Yeah it'll be done the only thing I can tell you is that there's a seven and a half minute dance interlude featuring stomp in a wedding go.
 
-[00:12:16] Nathan [GUESS]: Yeah we haven't heard a lot from stump probably for the best considering that we also owe him a large amount of cash and he's there suggestions the members of his family are coming around with with weapons to to extract justice.
+[00:12:16] Nathan: Yeah we haven't heard a lot from stump probably for the best considering that we also owe him a large amount of cash and he's there suggestions the members of his family are coming around with with weapons to to extract justice.
 
-[00:12:16] Brendan [GUESS]: But let's move on from that so we've got by my accounts and I'm kind of getting a little bit Lost after we got off into.
+[00:12:16] Brendan: But let's move on from that so we've got by my accounts and I'm kind of getting a little bit Lost after we got off into.
 
-[00:13:02] Nathan [GUESS]: The weeds that I think we've got four minutes of government-regulated banter time before we hit content so give me a number the moratorium is now up to 150 mod tidbits give me one any number nineteen.
+[00:13:02] Nathan: The weeds that I think we've got four minutes of government-regulated banter time before we hit content so give me a number the moratorium is now up to 150 mod tidbits give me one any number nineteen.
 
-[00:13:02] Brendan [GUESS]: Oh this actually came from somebody one of our new fans on the Internet who who threw this out as the other weakened said there that they thought it was really weird that mod always roar like a saucy blue eyeshadow what's your take on why mod were tsatsis seductive and kind of garish and outlandish kind of eyeshadow all the time.
+[00:13:02] Brendan: Oh this actually came from somebody one of our new fans on the Internet who who threw this out as the other weakened said there that they thought it was really weird that mod always roar like a saucy blue eyeshadow what's your take on why mod were tsatsis seductive and kind of garish and outlandish kind of eyeshadow all the time.
 
-[00:13:02] Nathan [GUESS]: Yeah it is a strange thing I think she likes to feel attractive I don't think Ned Ned never really makes comment and how she looks it's usually.
+[00:13:02] Nathan: Yeah it is a strange thing I think she likes to feel attractive I don't think Ned Ned never really makes comment and how she looks it's usually.
 
-[00:13:48] Brendan [GUESS]: Calmer or more so maybe it's for Ned's benefit maybe she just wants a compliment from net and it's just not coming yeah but but Ned you know being an evangelical conservative.
+[00:13:48] Brendan: Calmer or more so maybe it's for Ned's benefit maybe she just wants a compliment from net and it's just not coming yeah but but Ned you know being an evangelical conservative.
 
-[00:13:48] Nathan [GUESS]: Is it's not likely to be impressed by that that behavior that he and even maud might describe at their worst as Jezebel ish it also might just be to irritate him maybe she wants she again in the cultivation of chaos maybe she wants someone to leer at her the way home added an edge to step in and defend her and fight.
+[00:13:48] Nathan: Is it's not likely to be impressed by that that behavior that he and even maud might describe at their worst as Jezebel ish it also might just be to irritate him maybe she wants she again in the cultivation of chaos maybe she wants someone to leer at her the way home added an edge to step in and defend her and fight.
 
-[00:13:48] Brendan [GUESS]: Oh so she shits terror as we call them donno yeah yeah alright so maybe she's were in the eye shadow to to attract those lascivious glances from those animals that's foreshadowing.
+[00:13:48] Brendan: Oh so she shits terror as we call them donno yeah yeah alright so maybe she's were in the eye shadow to to attract those lascivious glances from those animals that's foreshadowing.
 
-[00:14:35] Nathan [GUESS]: Something we're going to talk about later of those animals so that Neddy will step in with you with these guns and just give Homer a damn good beating to within an inch of his life maybe hmm there's always the possibility that she's just doing it for herself because she likes it.
+[00:14:35] Nathan: Something we're going to talk about later of those animals so that Neddy will step in with you with these guns and just give Homer a damn good beating to within an inch of his life maybe hmm there's always the possibility that she's just doing it for herself because she likes it.
 
-[00:14:35] Brendan [GUESS]: Yes she likes it because I'm worth it because mods worth it makes her look wonderful and like you said she's one of the most attractive.
+[00:14:35] Brendan: Yes she likes it because I'm worth it because mods worth it makes her look wonderful and like you said she's one of the most attractive.
 
-[00:15:01] Nathan [GUESS]: Characters they actually had to try they almost broke the rules just to make her more attractive now she's no Jessica Rabbit I'll give you that.
+[00:15:01] Nathan: Characters they actually had to try they almost broke the rules just to make her more attractive now she's no Jessica Rabbit I'll give you that.
 
-[00:15:01] Brendan [GUESS]: But in terms of The Simpsons world she's up there yeah she's not that I'm good not that I'm going to objectify Maude purely not purely in terms of their aim of making an attractive character anyway it was successful with Maude friends they had the same issues with Manjula I believe when they brought munge moved in because they wanted her to be attractive.
+[00:15:01] Brendan: But in terms of The Simpsons world she's up there yeah she's not that I'm good not that I'm going to objectify Maude purely not purely in terms of their aim of making an attractive character anyway it was successful with Maude friends they had the same issues with Manjula I believe when they brought munge moved in because they wanted her to be attractive.
 
-[00:15:01] Nathan [GUESS]: But Sims characters tend to not do just look cartoonish so they they have Manjula as a similar hi I know it's kind of [ __ ].
+[00:15:01] Nathan: But Sims characters tend to not do just look cartoonish so they they have Manjula as a similar hi I know it's kind of [ __ ].
 
-[00:15:01] Brendan [GUESS]: Actually as well as Helen and Maude are you looking at a figure of Man Julie you.
+[00:15:01] Brendan: Actually as well as Helen and Maude are you looking at a figure of Man Julie you.
 
-[00:15:46] Nathan [GUESS]: Have on a shelf over there or is your attraction if your attention been attracting by maybe a shiny thing there's just a couple of cats fighting in the corner I wanted to say why I'm looking at looking at Manjula stood next to Lhari bones and hunt some more I think the listeners would love to see some photographs of your Simpsons collection.
+[00:15:46] Nathan: Have on a shelf over there or is your attraction if your attention been attracting by maybe a shiny thing there's just a couple of cats fighting in the corner I wanted to say why I'm looking at looking at Manjula stood next to Lhari bones and hunt some more I think the listeners would love to see some photographs of your Simpsons collection.
 
-[00:15:46] Brendan [GUESS]: So feel free to drop those in when you those are some visuals for the show and thank you again for those because those visual is our top draw top notch and Top of the Pops we're almost at I'm almost into content.
+[00:15:46] Brendan: So feel free to drop those in when you those are some visuals for the show and thank you again for those because those visual is our top draw top notch and Top of the Pops we're almost at I'm almost into content.
 
-[00:15:46] Nathan [GUESS]: But I want to squeeze one more moderate or iam fact in there give me a number between one and a hundred and fifty 3333 recur around 33 old Flanders so in at.
+[00:15:46] Nathan: But I want to squeeze one more moderate or iam fact in there give me a number between one and a hundred and fifty 3333 recur around 33 old Flanders so in at.
 
-[00:16:32] Brendan [GUESS]: Least two instances yeah I've got a picture here actually a screenshot but you know what I'm talking about it's got an old Ned he's all wrinkled and Maude sat next to him and Selma and Patty or sat behind I don't know the context of this I'm sure you do.
+[00:16:32] Brendan: Least two instances yeah I've got a picture here actually a screenshot but you know what I'm talking about it's got an old Ned he's all wrinkled and Maude sat next to him and Selma and Patty or sat behind I don't know the context of this I'm sure you do.
 
-[00:16:32] Nathan [GUESS]: But an old Maude old Flanders question mark come on tell me yeah it's from Lisa's wedding the future episode I think I mighta mentioned before it's our vision predicted by a sidekick.
+[00:16:32] Nathan: But an old Maude old Flanders question mark come on tell me yeah it's from Lisa's wedding the future episode I think I mighta mentioned before it's our vision predicted by a sidekick.
 
-[00:16:32] Brendan [GUESS]: So it's that's how you get around that it's not just it's not just an episode set in the future it's a letter so it was somebody predicts Lisa's future I'm more made.
+[00:16:32] Brendan: So it's that's how you get around that it's not just it's not just an episode set in the future it's a letter so it was somebody predicts Lisa's future I'm more made.
 
-[00:16:32] Nathan [GUESS]: So sadly sadly it's not reflective of the true Simpsons future that's the episode.
+[00:16:32] Nathan: So sadly sadly it's not reflective of the true Simpsons future that's the episode.
 
-[00:17:17] Brendan [GUESS]: In The Simpsons if you ought to watch that now in the Simpsons world it is set 10 years in the future but in our world it is now set 10 years in the past.
+[00:17:17] Brendan: In The Simpsons if you ought to watch that now in the Simpsons world it is set 10 years in the future but in our world it is now set 10 years in the past.
 
-[00:17:17] Nathan [GUESS]: Oh you know what there's another moratorium one where I talk about that a little bit because you know Tom as Matthew McConaughey would like to say and you know one day we'll dig into that notion of elastic time even further maybe we'll just do a whole 20 hour episode on it.
+[00:17:17] Nathan: Oh you know what there's another moratorium one where I talk about that a little bit because you know Tom as Matthew McConaughey would like to say and you know one day we'll dig into that notion of elastic time even further maybe we'll just do a whole 20 hour episode on it.
 
-[00:17:17] Brendan [GUESS]: Yeah Simpsons time is a flat circle however it's that time when against our will rather than talking about less relevant things and making up silly stories we.
+[00:17:17] Brendan: Yeah Simpsons time is a flat circle however it's that time when against our will rather than talking about less relevant things and making up silly stories we.
 
-[00:17:17] Nathan [GUESS]: Actually have to address the issue at hand what are the episodes.
+[00:17:17] Nathan: Actually have to address the issue at hand what are the episodes.
 
-[00:18:03] Brendan [GUESS]: We're talking about today methanol Leary my biological brother it's a good question I believe it is Dulles Marge vs. the monorail and two others that's a very informative introduction.
+[00:18:03] Brendan: We're talking about today methanol Leary my biological brother it's a good question I believe it is Dulles Marge vs. the monorail and two others that's a very informative introduction.
 
-[00:18:03] Nathan [GUESS]: So let's leap straight into clip 1 this is Flanders winning now how to go out this last week as you sent it to me a week a week too early there's a new segment called the week too early we're neck and sends me clips for next week's show and then we realize it's not the.
+[00:18:03] Nathan: So let's leap straight into clip 1 this is Flanders winning now how to go out this last week as you sent it to me a week a week too early there's a new segment called the week too early we're neck and sends me clips for next week's show and then we realize it's not the.
 
-[00:18:03] Brendan [GUESS]: Right clip but I'm all I think that's fun for me you know gives me two steps fun to scratch that mindset so clip one the Flanders Ned wins second prize in some blimp style competition and the prize is a handsome shoe buffer there Maude is delighted and we actually.
+[00:18:03] Brendan: Right clip but I'm all I think that's fun for me you know gives me two steps fun to scratch that mindset so clip one the Flanders Ned wins second prize in some blimp style competition and the prize is a handsome shoe buffer there Maude is delighted and we actually.
 
-[00:18:49] Nathan [GUESS]: Get a face forward Maude and in my notes which you can access should you so desire we get a full on picture of face forward mod which is very unusual and Maude is delighted and.
+[00:18:49] Nathan: Get a face forward Maude and in my notes which you can access should you so desire we get a full on picture of face forward mod which is very unusual and Maude is delighted and.
 
-[00:18:49] Brendan [GUESS]: Yeah yes he looks happy marge does mention post mortem post mortem nice that Maude owns several pairs of shoes so I think shoes could be added to some little thing Maude collects shoes.
+[00:18:49] Brendan: Yeah yes he looks happy marge does mention post mortem post mortem nice that Maude owns several pairs of shoes so I think shoes could be added to some little thing Maude collects shoes.
 
-[00:18:49] Nathan [GUESS]: But I'd say she has an interest in them so now she gets to keep them super clean and shiny no more marge after death suggested Maude even had a fetish for shoes as she has like for hers.
+[00:18:49] Nathan: But I'd say she has an interest in them so now she gets to keep them super clean and shiny no more marge after death suggested Maude even had a fetish for shoes as she has like for hers.
 
-[00:18:49] Brendan [GUESS]: Yeah something like that what was the other thing yeah she's.
+[00:18:49] Brendan: Yeah something like that what was the other thing yeah she's.
 
-[00:19:35] Nathan [GUESS]: Happy and again this is the first time we've really seen something good happen - I mean good things a few 5tm in the left dorian episode were where they saved where the shot was said was good.
+[00:19:35] Nathan: Happy and again this is the first time we've really seen something good happen - I mean good things a few 5tm in the left dorian episode were where they saved where the shot was said was good.
 
-[00:19:35] Brendan [GUESS]: But it was it was the precursor that was horrible whereas this is just yeah they've had moments like you know things have come back around for them.
+[00:19:35] Brendan: But it was it was the precursor that was horrible whereas this is just yeah they've had moments like you know things have come back around for them.
 
-[00:19:35] Nathan [GUESS]: But this is just there was no trauma with her before and they just entered a.
+[00:19:35] Nathan: But this is just there was no trauma with her before and they just entered a.
 
-[00:20:00] Brendan [GUESS]: Competition and came second place and I'm guessing Homer wins first place he does which in itself is a coincidence that two neighbors would win the first two prizes and a reversal of the standard trope that the Flanders are betting the Simpsons and always have a better life though in reality they have horrific things happened to them on a regular basis the grass.
+[00:20:00] Brendan: Competition and came second place and I'm guessing Homer wins first place he does which in itself is a coincidence that two neighbors would win the first two prizes and a reversal of the standard trope that the Flanders are betting the Simpsons and always have a better life though in reality they have horrific things happened to them on a regular basis the grass.
 
-[00:20:00] Nathan [GUESS]: Is always greener for Homer but he seems to forget that one disease losing wives left right and center and having his house destroyed on his business destroyed none of which has really happened.
+[00:20:00] Nathan: Is always greener for Homer but he seems to forget that one disease losing wives left right and center and having his house destroyed on his business destroyed none of which has really happened.
 
-[00:20:00] Brendan [GUESS]: Yeah it literally I don't know if it caught that clip before Homer speaks but he looks sudden says I wanted to win a shoe is there a selfish man whole Magette Simpson they said about homeless yeah.
+[00:20:00] Brendan: Yeah it literally I don't know if it caught that clip before Homer speaks but he looks sudden says I wanted to win a shoe is there a selfish man whole Magette Simpson they said about homeless yeah.
 
-[00:20:45] Nathan [GUESS]: Flowing on to clip two so this I'm guessing is a different episode right so is that the only time that the mod actually appears in the dullest episode.
+[00:20:45] Nathan: Flowing on to clip two so this I'm guessing is a different episode right so is that the only time that the mod actually appears in the dullest episode.
 
-[00:20:45] Brendan [GUESS]: Yeah that's it that's the no but grim seems nothing that's too bad those people were robbed of a chance to get a little bit of more into their eyeglasses however clip two.
+[00:20:45] Brendan: Yeah that's it that's the no but grim seems nothing that's too bad those people were robbed of a chance to get a little bit of more into their eyeglasses however clip two.
 
-[00:20:45] Nathan [GUESS]: So this this one she again she appears a little bit more but not too much town-hall meeting mayor Quimby is throwing out some figures which Lisa hotly contests.
+[00:20:45] Nathan: So this this one she again she appears a little bit more but not too much town-hall meeting mayor Quimby is throwing out some figures which Lisa hotly contests.
 
-[00:20:45] Brendan [GUESS]: But then Maude Boulder's brass just stands up and says excuse me maybe we could use the money to hire firemen to finally put out the blaze on the east side of town no permanent fires in Springfield seems to.
+[00:20:45] Brendan: But then Maude Boulder's brass just stands up and says excuse me maybe we could use the money to hire firemen to finally put out the blaze on the east side of town no permanent fires in Springfield seems to.
 
-[00:21:31] Nathan [GUESS]: Be a fairly common thing isn't there like a tire factory that's also permanently on fire yeah there's the tire fire that's sort of always there which I kind of just assumed that's what she was talking about you mean.
+[00:21:31] Nathan: Be a fairly common thing isn't there like a tire factory that's also permanently on fire yeah there's the tire fire that's sort of always there which I kind of just assumed that's what she was talking about you mean.
 
-[00:21:31] Brendan [GUESS]: But it's way that they didn't specify that maybe it's too early maybe they hadn't introduced that yeah oh yeah she's straight up she's the first.
+[00:21:31] Brendan: But it's way that they didn't specify that maybe it's too early maybe they hadn't introduced that yeah oh yeah she's straight up she's the first.
 
-[00:21:31] Nathan [GUESS]: But not this is the first time we've seen her like not just in the Flanders or The Simpsons family but she's the first person in the whole town to stand up and say something she has that bravery times you know for for all of her quietness she doesn't seem to be against speaking out whenever she feels like it she has the confidence.
+[00:21:31] Nathan: But not this is the first time we've seen her like not just in the Flanders or The Simpsons family but she's the first person in the whole town to stand up and say something she has that bravery times you know for for all of her quietness she doesn't seem to be against speaking out whenever she feels like it she has the confidence.
 
-[00:21:31] Brendan [GUESS]: And she's a unshaken by homers attempts to pour off by yelling boring on her.
+[00:21:31] Brendan: And she's a unshaken by homers attempts to pour off by yelling boring on her.
 
-[00:22:17] Nathan [GUESS]: Home I just stands up and shout you're boring and there is just no reaction from what she just totally blanks him and just ignores home budget as she is as really that is the best course of action she ignored him in the last episode when he fell asleep pretty much on her in church she ignored him or tried to when he wished.
+[00:22:17] Nathan: Home I just stands up and shout you're boring and there is just no reaction from what she just totally blanks him and just ignores home budget as she is as really that is the best course of action she ignored him in the last episode when he fell asleep pretty much on her in church she ignored him or tried to when he wished.
 
-[00:22:17] Brendan [GUESS]: Evil on them after their chicken bone incident so it's probably the best course of action really with Homer however it then cuts immediately to mr. Chenault room which you know spoiler is mr. burns with a moustache on um I'm the only thing I could say about this is first all were there any resolution tomorrow they just hold you shout her down and.
+[00:22:17] Brendan: Evil on them after their chicken bone incident so it's probably the best course of action really with Homer however it then cuts immediately to mr. Chenault room which you know spoiler is mr. burns with a moustache on um I'm the only thing I could say about this is first all were there any resolution tomorrow they just hold you shout her down and.
 
-[00:22:17] Nathan [GUESS]: Then she sat down with no more conversation and.
+[00:22:17] Nathan: Then she sat down with no more conversation and.
 
-[00:23:04] Brendan [GUESS]: Second yeah that's it that there's no her idea isn't isn't taking any further than that to be further they are destructive because Marge has an idea that they almost all vote for and then they get destructed by the arrival of lonely.
+[00:23:04] Brendan: Second yeah that's it that there's no her idea isn't isn't taking any further than that to be further they are destructive because Marge has an idea that they almost all vote for and then they get destructed by the arrival of lonely.
 
-[00:23:04] Nathan [GUESS]: But that's several minutes or seconds later she stands up she says a perfectly reasonable perfectly reasonable request which he ignored by everybody and shouted bone by Homer Simpson and I can only imagine she sits down what's going through her mind what's on her face when she sits down having just stood up through a note an idea and then just been shouted down.
+[00:23:04] Nathan: But that's several minutes or seconds later she stands up she says a perfectly reasonable perfectly reasonable request which he ignored by everybody and shouted bone by Homer Simpson and I can only imagine she sits down what's going through her mind what's on her face when she sits down having just stood up through a note an idea and then just been shouted down.
 
-[00:23:04] Brendan [GUESS]: By our horrible neighbor and then everyone just moves on as if she didn't say anything yeah nobody comes to her defense net nobody does anything to help.
+[00:23:04] Brendan: By our horrible neighbor and then everyone just moves on as if she didn't say anything yeah nobody comes to her defense net nobody does anything to help.
 
-[00:23:49] Nathan [GUESS]: Her so she just reading it yeah I think that's the sad part about Marge life is that this is just something she is becoming adjusted to and she just thinks I don't think she takes it personally I think she still thinks.
+[00:23:49] Nathan: Her so she just reading it yeah I think that's the sad part about Marge life is that this is just something she is becoming adjusted to and she just thinks I don't think she takes it personally I think she still thinks.
 
-[00:23:49] Brendan [GUESS]: Well that was a good idea but you know they're gonna go with something else and she's also clearly on board with the final idea.
+[00:23:49] Brendan: Well that was a good idea but you know they're gonna go with something else and she's also clearly on board with the final idea.
 
-[00:23:49] Nathan [GUESS]: So oh yeah she's she's persuaded as are the rest of the town but the other thing is she sees mr. Shimono she's no fool she knows it's mr. Bernsen she sees him of his it is true in his true wicked guys after seeing him the last two times she run into him he's really been a savior especially when he dropped like almost.
+[00:23:49] Nathan: So oh yeah she's she's persuaded as are the rest of the town but the other thing is she sees mr. Shimono she's no fool she knows it's mr. Bernsen she sees him of his it is true in his true wicked guys after seeing him the last two times she run into him he's really been a savior especially when he dropped like almost.
 
-[00:23:49] Brendan [GUESS]: 200 grand on them in the last Orion yeah this is the first time she's.
+[00:23:49] Brendan: 200 grand on them in the last Orion yeah this is the first time she's.
 
-[00:24:34] Nathan [GUESS]: Really seen him to her but again she she could not snot mr. burns yeah exactly she ain't just some comic foil but anyway so she stands up gives a good a shouted down and then sees this monster step up and try to take the money.
+[00:24:34] Nathan: Really seen him to her but again she she could not snot mr. burns yeah exactly she ain't just some comic foil but anyway so she stands up gives a good a shouted down and then sees this monster step up and try to take the money.
 
-[00:24:34] Brendan [GUESS]: But then very quickly very quickly she has the rest of the time are persuaded by Lyle lammle to invest all of their money.
+[00:24:34] Brendan: But then very quickly very quickly she has the rest of the time are persuaded by Lyle lammle to invest all of their money.
 
-[00:25:00] Nathan [GUESS]: In this monorail idea and as Barr says sorry mom the mob has spoken and then in true Busby Berkeley like Hollywood style they storm out of the onto the steps of the town hall and they march down in sync and Maude and Ned are leading the charge there either a minute ago they were almost at the front of the stage somehow they've.
+[00:25:00] Nathan: In this monorail idea and as Barr says sorry mom the mob has spoken and then in true Busby Berkeley like Hollywood style they storm out of the onto the steps of the town hall and they march down in sync and Maude and Ned are leading the charge there either a minute ago they were almost at the front of the stage somehow they've.
 
-[00:25:00] Brendan [GUESS]: Managed unlike last week's episode with the church where the hell like this time they've actually somehow managed to get them stuck to the front alongside police chief Wiggum and diamond jaw and they're marching down the steps you know full-on song and dance happily laughing and this is one of the things you said about her singing in the ensemble we're never going to be able to.
+[00:25:00] Brendan: Managed unlike last week's episode with the church where the hell like this time they've actually somehow managed to get them stuck to the front alongside police chief Wiggum and diamond jaw and they're marching down the steps you know full-on song and dance happily laughing and this is one of the things you said about her singing in the ensemble we're never going to be able to.
 
-[00:25:45] Nathan [GUESS]: Pick our minds voice in that is she still miming yeah but I think this might be hearing everybody else sings might help her out a little bit that happened was a few more times yet.
+[00:25:45] Nathan: Pick our minds voice in that is she still miming yeah but I think this might be hearing everybody else sings might help her out a little bit that happened was a few more times yet.
 
-[00:25:45] Brendan [GUESS]: So I think start thinking Santa believe in herself because she's got the dance moves down she's dancing in sync to everybody else absolutely it is interesting that after this you don't see her at the monorail you know event and you don't see her on the monorail this is the last time you see her in this episode.
+[00:25:45] Brendan: So I think start thinking Santa believe in herself because she's got the dance moves down she's dancing in sync to everybody else absolutely it is interesting that after this you don't see her at the monorail you know event and you don't see her on the monorail this is the last time you see her in this episode.
 
-[00:25:45] Nathan [GUESS]: Oh we got it we gotta give the Simpsons camera crew some you know a little bit of slack they might not catch everybody on camera.
+[00:25:45] Nathan: Oh we got it we gotta give the Simpsons camera crew some you know a little bit of slack they might not catch everybody on camera.
 
-[00:25:45] Brendan [GUESS]: So there are it is possible that Maude was just slightly off camera but also very.
+[00:25:45] Brendan: So there are it is possible that Maude was just slightly off camera but also very.
 
-[00:26:30] Nathan [GUESS]: Possible that once again she really put her way behind something and then didn't show up and I seems to be a little bit of a trait for a mod as.
+[00:26:30] Nathan: Possible that once again she really put her way behind something and then didn't show up and I seems to be a little bit of a trait for a mod as.
 
-[00:26:30] Brendan [GUESS]: Well my theory was that she felt a little bit swept up she embarrassed that she got swept up in the whole mob mentality kind of situation which does happen to her quite a lot.
+[00:26:30] Brendan: Well my theory was that she felt a little bit swept up she embarrassed that she got swept up in the whole mob mentality kind of situation which does happen to her quite a lot.
 
-[00:26:30] Nathan [GUESS]: But I don't think she likes it about herself so I think maybe I have a pride or some kind of stubbornness they thought we're not gonna we're not bothered about this monorail really we got swept up thought we're gonna go and put this fire out ourselves.
+[00:26:30] Nathan: But I don't think she likes it about herself so I think maybe I have a pride or some kind of stubbornness they thought we're not gonna we're not bothered about this monorail really we got swept up thought we're gonna go and put this fire out ourselves.
 
-[00:26:30] Brendan [GUESS]: So so one theory one wild theories while the rest of the town is are riding the monorail Ned and Mordor doing some amateur firefighting.
+[00:26:30] Brendan: So so one theory one wild theories while the rest of the town is are riding the monorail Ned and Mordor doing some amateur firefighting.
 
-[00:26:30] Nathan [GUESS]: But if it is the tire fire then clearly they.
+[00:26:30] Nathan: But if it is the tire fire then clearly they.
 
-[00:27:15] Brendan [GUESS]: Failed and probably inhaled a whole bunch of very noxious fumes so win-win-win one mindset yeah where are the kids during this point you know generally when we keep seeing you know Morden ed out together who's looking after the kids.
+[00:27:15] Brendan: Failed and probably inhaled a whole bunch of very noxious fumes so win-win-win one mindset yeah where are the kids during this point you know generally when we keep seeing you know Morden ed out together who's looking after the kids.
 
-[00:27:15] Nathan [GUESS]: Well I don't know actually because the whole Marg makes a point of saying while the whole town turned up and then it cooks so like snake I like different like criminal just robbing everybody sizes.
+[00:27:15] Nathan: Well I don't know actually because the whole Marg makes a point of saying while the whole town turned up and then it cooks so like snake I like different like criminal just robbing everybody sizes.
 
-[00:27:15] Brendan [GUESS]: So the kids must yeah all the kids I imagine this some kind of side room at this town hall meeting where all the kids are being looked after by ironically a good choice would have been mod.
+[00:27:15] Brendan: So the kids must yeah all the kids I imagine this some kind of side room at this town hall meeting where all the kids are being looked after by ironically a good choice would have been mod.
 
-[00:27:15] Nathan [GUESS]: But let's say on maybe the Sunday school teacher or discussed you'd be good I disgust you run a run a daycare center but obviously.
+[00:27:15] Nathan: But let's say on maybe the Sunday school teacher or discussed you'd be good I disgust you run a run a daycare center but obviously.
 
-[00:28:00] Brendan [GUESS]: Lisa and barter in the room so that story is not that theory is not without some holes but you know you knows maybe it was optional for the kids.
+[00:28:00] Brendan: Lisa and barter in the room so that story is not that theory is not without some holes but you know you knows maybe it was optional for the kids.
 
-[00:28:00] Nathan [GUESS]: Yeah and maybe Lisa Lisa definitely would want to be involved in this kind of thing and maybe but so just to annoy any other kids.
+[00:28:00] Nathan: Yeah and maybe Lisa Lisa definitely would want to be involved in this kind of thing and maybe but so just to annoy any other kids.
 
-[00:28:00] Brendan [GUESS]: No Ralph normal it's not Martin moving on quick for so we jump now into mods meatiest roles of up today and this is the this is the Valentine's episode which is what Lisa the beauty queen is that the title.
+[00:28:00] Brendan: No Ralph normal it's not Martin moving on quick for so we jump now into mods meatiest roles of up today and this is the this is the Valentine's episode which is what Lisa the beauty queen is that the title.
 
-[00:28:00] Nathan [GUESS]: No this is called Davos or this one's called office okay I'm afraid Lisa yeah I did I do this a.
+[00:28:00] Nathan: No this is called Davos or this one's called office okay I'm afraid Lisa yeah I did I do this a.
 
-[00:28:45] Brendan [GUESS]: Lot for some reason I think it's cuz it's the Duff blimp that he wins but I keep thinking of the episode do it the shoe buffer I keep saying it's Dulles and it's not release of the musically acid the one with a Duff blimp is least the beauty queen with just that one little snippet now this one is Dulles and that makes.
+[00:28:45] Brendan: Lot for some reason I think it's cuz it's the Duff blimp that he wins but I keep thinking of the episode do it the shoe buffer I keep saying it's Dulles and it's not release of the musically acid the one with a Duff blimp is least the beauty queen with just that one little snippet now this one is Dulles and that makes.
 
-[00:28:45] Nathan [GUESS]: Sense because Nabi goes through some tough times later but term so the Simpsons are at the table is Valentine's Day Marge is made and I love you out to bacon and eggs it looks delicious for you meat eaters out there Bart says to him I'm sure you've got lots of things planned and Homer tries to play it off because clearly he's done.
+[00:28:45] Nathan: Sense because Nabi goes through some tough times later but term so the Simpsons are at the table is Valentine's Day Marge is made and I love you out to bacon and eggs it looks delicious for you meat eaters out there Bart says to him I'm sure you've got lots of things planned and Homer tries to play it off because clearly he's done.
 
-[00:28:45] Brendan [GUESS]: Nothing right as you'd expect for home and yeah I'm nobody makes a big deal of Valentine's Day cut look at the window and Ned Flanders is dressed as a full body.
+[00:28:45] Brendan: Nothing right as you'd expect for home and yeah I'm nobody makes a big deal of Valentine's Day cut look at the window and Ned Flanders is dressed as a full body.
 
-[00:29:31] Nathan [GUESS]: Costume as a giant love heart with a little pink guitar and he's playing a version of Rod Stewart's do you think I'm sexy but he's changed their lyrics - he's mods gazing out of the window.
+[00:29:31] Nathan: Costume as a giant love heart with a little pink guitar and he's playing a version of Rod Stewart's do you think I'm sexy but he's changed their lyrics - he's mods gazing out of the window.
 
-[00:29:31] Brendan [GUESS]: So he's singing up to her almost Romeo and Juliet star is given more to single pink rose and she's gazing at him with love in her eyes and any howls and and the mod brings the rose to her nose and.
+[00:29:31] Brendan: So he's singing up to her almost Romeo and Juliet star is given more to single pink rose and she's gazing at him with love in her eyes and any howls and and the mod brings the rose to her nose and.
 
-[00:30:00] Nathan [GUESS]: Smiles and sniffs the rose cut - Bart hey why don't you give mom her present and I'm sure madness ensues in the Simpsons Irish not long after that.
+[00:30:00] Nathan: Smiles and sniffs the rose cut - Bart hey why don't you give mom her present and I'm sure madness ensues in the Simpsons Irish not long after that.
 
-[00:30:00] Brendan [GUESS]: So why don't we make it that again it's the mirror of reflect and it's look Oh prepared Ned was but I I'm inclined to disagree with you about you saying she has love in her eyes to me she again looks like she's just still present to me she looks she has a similar expression to the golf game where she looks completely whatever.
+[00:30:00] Brendan: So why don't we make it that again it's the mirror of reflect and it's look Oh prepared Ned was but I I'm inclined to disagree with you about you saying she has love in her eyes to me she again looks like she's just still present to me she looks she has a similar expression to the golf game where she looks completely whatever.
 
-[00:30:00] Nathan [GUESS]: Is going through her mind isn't is it what's happening in front of her the girl with the faraway eye she might even save us your Rolling Stones fan.
+[00:30:00] Nathan: Is going through her mind isn't is it what's happening in front of her the girl with the faraway eye she might even save us your Rolling Stones fan.
 
-[00:30:00] Brendan [GUESS]: Yes so we don't think that she's really bought into this well my next question was going to yes I.
+[00:30:00] Brendan: Yes so we don't think that she's really bought into this well my next question was going to yes I.
 
-[00:30:53] Nathan [GUESS]: Will Jack him something because this this is what what in the professional terms they would call a future mode that clip was from I Lisa.
+[00:30:53] Nathan: Will Jack him something because this this is what what in the professional terms they would call a future mode that clip was from I Lisa.
 
-[00:30:53] Brendan [GUESS]: So that that that Valentine's Day episode where Ned dresses up is not from Dulles or from Lisa the beauty queen it's from an episode called I love Lisa.
+[00:30:53] Brendan: So that that that Valentine's Day episode where Ned dresses up is not from Dulles or from Lisa the beauty queen it's from an episode called I love Lisa.
 
-[00:30:53] Nathan [GUESS]: Is it at least from the sensi season yeah it's definitely it's the correct warning I knew that I thought that was for in this I knew there was four separate episodes with clips and I knew that the Dulles I knew that the last two clips were from different at shows lexical.
+[00:30:53] Nathan: Is it at least from the sensi season yeah it's definitely it's the correct warning I knew that I thought that was for in this I knew there was four separate episodes with clips and I knew that the Dulles I knew that the last two clips were from different at shows lexical.
 
-[00:30:53] Brendan [GUESS]: So yeah I just did a little bit of a look and yeah but that is from I.
+[00:30:53] Brendan: So yeah I just did a little bit of a look and yeah but that is from I.
 
-[00:31:40] Nathan [GUESS]: Love Lisa which is the episode where Ralph so I choose I choose you choose you yes in the grand scheme of things as endearing as it is that you keep making mystery.
+[00:31:40] Nathan: Love Lisa which is the episode where Ralph so I choose I choose you choose you yes in the grand scheme of things as endearing as it is that you keep making mystery.
 
-[00:31:40] Brendan [GUESS]: But it's irrelevant because you are interested in the more defect and in this clip we see moored with a faraway eyes looking now my question is what did more do for Neddy on that day you know because you know Marge did they I love you bacon and Eddie's obviously pulled out all the stops what's mod Valentine's Day offering up to the altar.
+[00:31:40] Brendan: But it's irrelevant because you are interested in the more defect and in this clip we see moored with a faraway eyes looking now my question is what did more do for Neddy on that day you know because you know Marge did they I love you bacon and Eddie's obviously pulled out all the stops what's mod Valentine's Day offering up to the altar.
 
-[00:31:40] Nathan [GUESS]: Of Neddy I like to think that in the theme of redemption and stick he likes say that this is the first Valentine's Day since the marriage counseling.
+[00:31:40] Nathan: Of Neddy I like to think that in the theme of redemption and stick he likes say that this is the first Valentine's Day since the marriage counseling.
 
-[00:31:40] Brendan [GUESS]: So I like to think that she's bought him a new personalized Bible with.
+[00:31:40] Brendan: So I like to think that she's bought him a new personalized Bible with.
 
-[00:32:28] Nathan [GUESS]: His name on it and nothing underlined so here's Neddy Flanders embossed on the cover of the of the Bible or maybe on the inside cover you don't want to be putting your name on the front of the Bible probably.
+[00:32:28] Nathan: His name on it and nothing underlined so here's Neddy Flanders embossed on the cover of the of the Bible or maybe on the inside cover you don't want to be putting your name on the front of the Bible probably.
 
-[00:32:28] Brendan [GUESS]: But yeah that would be a nice gift wouldn't it have been excellent gift for Ned especially after she more or less ruin his last one by scribbling all over it did she make did she make him a nice breakfast as.
+[00:32:28] Brendan: But yeah that would be a nice gift wouldn't it have been excellent gift for Ned especially after she more or less ruin his last one by scribbling all over it did she make did she make him a nice breakfast as.
 
-[00:32:28] Nathan [GUESS]: Well similarly and I love you bacon and eggs ensemble I think sorry I think that was something that maybe maybe merge merging Maude maybe took some skills from each other and I think that they both from the I think that might have been a mug idea and modest taking it Tom bored interesting interesting theory that they would might swap and change those kind.
+[00:32:28] Nathan: Well similarly and I love you bacon and eggs ensemble I think sorry I think that was something that maybe maybe merge merging Maude maybe took some skills from each other and I think that they both from the I think that might have been a mug idea and modest taking it Tom bored interesting interesting theory that they would might swap and change those kind.
 
-[00:33:14] Brendan [GUESS]: Of housewifely stories such a quaint way it could even be a springfield tradition the I love you exempt because Marge is Marge is more enamored to haul more than modest Annette I would say because you know magic with a lot more stuff and we again just predominantly from it being the TV show The Simpsons we see a lot more of Marge you.
+[00:33:14] Brendan: Of housewifely stories such a quaint way it could even be a springfield tradition the I love you exempt because Marge is Marge is more enamored to haul more than modest Annette I would say because you know magic with a lot more stuff and we again just predominantly from it being the TV show The Simpsons we see a lot more of Marge you.
 
-[00:33:14] Nathan [GUESS]: Know being nice to home and doing nice things for Homer you really see more doing anything for that she's generally supportive although we did question that with the fact that she didn't even bother to show up for a streetcar named desire show however she's generally supportive in spirit.
+[00:33:14] Nathan: Know being nice to home and doing nice things for Homer you really see more doing anything for that she's generally supportive although we did question that with the fact that she didn't even bother to show up for a streetcar named desire show however she's generally supportive in spirit.
 
-[00:33:14] Brendan [GUESS]: But yeah maybe she we haven't seen her do much other than the art club sangwich here and there but you know yeah she's a good imagine she makes good food healthy.
+[00:33:14] Brendan: But yeah maybe she we haven't seen her do much other than the art club sangwich here and there but you know yeah she's a good imagine she makes good food healthy.
 
-[00:34:00] Nathan [GUESS]: Food wholesome food like the meatloaf and and vegetables she sure sure did last week all right five and now we're going for it today we did kind of make a deal we'd only do probably four clips in an episode.
+[00:34:00] Nathan: Food wholesome food like the meatloaf and and vegetables she sure sure did last week all right five and now we're going for it today we did kind of make a deal we'd only do probably four clips in an episode.
 
-[00:34:00] Brendan [GUESS]: But you got six in this one so you know in the interest of not running too long let's jump straight into click five when the winner basically the school hall is now ready for a performance and Principal Skinner comes up and he says you know welcome to the theater for a night of entertainment and picking up after yourself ha ha obviously the.
+[00:34:00] Brendan: But you got six in this one so you know in the interest of not running too long let's jump straight into click five when the winner basically the school hall is now ready for a performance and Principal Skinner comes up and he says you know welcome to the theater for a night of entertainment and picking up after yourself ha ha obviously the.
 
-[00:34:00] Nathan [GUESS]: Messing around jerk so they come back to the audience and there's tumbleweed sounds and people coughing uh-huh and that's where we see Ned and Morden police chief Wiggum again next to each other for the second clip in a row nobody else in recognizable in the audience I didn't know siree and the drawings of them I can only describe it.
+[00:34:00] Nathan: Messing around jerk so they come back to the audience and there's tumbleweed sounds and people coughing uh-huh and that's where we see Ned and Morden police chief Wiggum again next to each other for the second clip in a row nobody else in recognizable in the audience I didn't know siree and the drawings of them I can only describe it.
 
-[00:34:47] Brendan [GUESS]: As amateurish yeah their faces look like you know that alien that Rio Sahara one where they get taken over but he snatches and their faces is slightly off.
+[00:34:47] Brendan: As amateurish yeah their faces look like you know that alien that Rio Sahara one where they get taken over but he snatches and their faces is slightly off.
 
-[00:34:47] Nathan [GUESS]: Is it Bob Dole and Bill whoever in their faces are also.
+[00:34:47] Nathan: Is it Bob Dole and Bill whoever in their faces are also.
 
-[00:35:00] Brendan [GUESS]: They're not quite as they should be everyone's face is exactly what it looks like yeah she's um this is one of my favorite I think I already had a picture of that knocking about because it's my favorite mod she's facing forwards again.
+[00:35:00] Brendan: They're not quite as they should be everyone's face is exactly what it looks like yeah she's um this is one of my favorite I think I already had a picture of that knocking about because it's my favorite mod she's facing forwards again.
 
-[00:35:00] Nathan [GUESS]: Yes yes she just looks she's creepy it's weird it's really cool drawing but it's like it's kind of like how I would draw my fund as a net from front ton anyway.
+[00:35:00] Nathan: Yes yes she just looks she's creepy it's weird it's really cool drawing but it's like it's kind of like how I would draw my fund as a net from front ton anyway.
 
-[00:35:00] Brendan [GUESS]: So with the the they launch into the kids launch into again one my favorite Simpsons songs the one about the mediocre presidents and them you know once again mod is for the second time in his clips and for like the tenth time in a row in the presence of music.
+[00:35:00] Brendan: So with the the they launch into the kids launch into again one my favorite Simpsons songs the one about the mediocre presidents and them you know once again mod is for the second time in his clips and for like the tenth time in a row in the presence of music.
 
-[00:35:45] Nathan [GUESS]: But this time you don't have to persuade me why she is or isn't singing rod and Todd are singing in there yeah presenting this song about the caretaker presidents of the USA and super funny and I'd be good to drop in you know Alf Claussen who wrote all the music and obviously is a genius.
+[00:35:45] Nathan: But this time you don't have to persuade me why she is or isn't singing rod and Todd are singing in there yeah presenting this song about the caretaker presidents of the USA and super funny and I'd be good to drop in you know Alf Claussen who wrote all the music and obviously is a genius.
 
-[00:35:45] Brendan [GUESS]: Right in all these different styles but no lyrics written by Jeff Martin who we've talked about before he was a writer on several of the early shows.
+[00:35:45] Brendan: Right in all these different styles but no lyrics written by Jeff Martin who we've talked about before he was a writer on several of the early shows.
 
-[00:35:45] Nathan [GUESS]: But very funny rod he's playing Zachary Taylor the 12th President of the USA who busted a single year and Todd potala wanna but I believe he's playing john tyler who was the tenth now he took over from william henry harrison I died in 30 days my favorite line in that song that.
+[00:35:45] Nathan: But very funny rod he's playing Zachary Taylor the 12th President of the USA who busted a single year and Todd potala wanna but I believe he's playing john tyler who was the tenth now he took over from william henry harrison I died in 30 days my favorite line in that song that.
 
-[00:36:32] Brendan [GUESS]: Stayed as a fox in my head that's the coming like quizzes is coming handy is that I know that guy's name just from also you mixed up broad and todd todd isn't Todd is the small one did I say Todd was the tall one I know missus reversely tape and check that's true if I did.
+[00:36:32] Brendan: Stayed as a fox in my head that's the coming like quizzes is coming handy is that I know that guy's name just from also you mixed up broad and todd todd isn't Todd is the small one did I say Todd was the tall one I know missus reversely tape and check that's true if I did.
 
-[00:36:32] Nathan [GUESS]: Well cover me an eggs and flour and call me a pancake because I should know that by now shouldn't I eight episodes in the only thing of note that I have to say about this is that rotten toddler at the school performing school performance.
+[00:36:32] Nathan: Well cover me an eggs and flour and call me a pancake because I should know that by now shouldn't I eight episodes in the only thing of note that I have to say about this is that rotten toddler at the school performing school performance.
 
-[00:36:32] Brendan [GUESS]: But we still no point we've seen them in the classrooms and yeah it makes sense that chief Wiggum sat there because this is a Ralph episode and he's the lead in this play.
+[00:36:32] Brendan: But we still no point we've seen them in the classrooms and yeah it makes sense that chief Wiggum sat there because this is a Ralph episode and he's the lead in this play.
 
-[00:37:17] Nathan [GUESS]: And stuff but it doesn't make sense that if the whole audience is running people they've picked Ned and mod to be watching rod and Todd wait there you could have easily removed all four of those characters from that scene and Lost nothing it is again for the second or third time the only recognizable people are the Flanders.
+[00:37:17] Nathan: And stuff but it doesn't make sense that if the whole audience is running people they've picked Ned and mod to be watching rod and Todd wait there you could have easily removed all four of those characters from that scene and Lost nothing it is again for the second or third time the only recognizable people are the Flanders.
 
-[00:37:17] Brendan [GUESS]: But I wonder at that point whether it really was just that the Flanders were like the top tier of secondary characters once you've got up who and Chief William maybe the Flanders were the next maybe they have the same discussions we had.
+[00:37:17] Brendan: But I wonder at that point whether it really was just that the Flanders were like the top tier of secondary characters once you've got up who and Chief William maybe the Flanders were the next maybe they have the same discussions we had.
 
-[00:37:17] Nathan [GUESS]: Well know if the kids are there if it's not Ralph rod and Todd have gotta be there and they've rod and Todd are there then and Ned and more to come I'm hoping to have the same level of discussion and take it as seriously as we do no not Maude would be there it's strange.
+[00:37:17] Nathan: Well know if the kids are there if it's not Ralph rod and Todd have gotta be there and they've rod and Todd are there then and Ned and more to come I'm hoping to have the same level of discussion and take it as seriously as we do no not Maude would be there it's strange.
 
-[00:38:02] Brendan [GUESS]: Though that again it makes sense that Ned and Maude of sort of the next to Paul in terms of adults but Roland taught a pretty lowdown on the list of kids cuz you've got ya like Ralph Milhouse Marin sherry and Terry Richard and I want to say Louis we're knocking about a lot Nelson you know like rod and Todd are very low.
+[00:38:02] Brendan: Though that again it makes sense that Ned and Maude of sort of the next to Paul in terms of adults but Roland taught a pretty lowdown on the list of kids cuz you've got ya like Ralph Milhouse Marin sherry and Terry Richard and I want to say Louis we're knocking about a lot Nelson you know like rod and Todd are very low.
 
-[00:38:02] Nathan [GUESS]: Down on this list of which kids can we use right well I think we melts a good five out of that clip which is essentially just a one single frame of a badly drawn mod.
+[00:38:02] Nathan: Down on this list of which kids can we use right well I think we melts a good five out of that clip which is essentially just a one single frame of a badly drawn mod.
 
-[00:38:02] Brendan [GUESS]: So let's move on to our last clip of the day this is clips now this has got to be Duff flesh likes this is about alcohol this is Dulles.
+[00:38:02] Brendan: So let's move on to our last clip of the day this is clips now this has got to be Duff flesh likes this is about alcohol this is Dulles.
 
-[00:38:02] Nathan [GUESS]: Okay so Dulles may be a reference to the film breathless but I can't and what happens in that film or maybe a.
+[00:38:02] Nathan: Okay so Dulles may be a reference to the film breathless but I can't and what happens in that film or maybe a.
 
-[00:38:47] Brendan [GUESS]: Reference to another film that I can't think of right now but anyways there's Saturn and Alcoholics Anonymous meeting by the looks of it and an interesting range of characters there you've got Homer who I'm guessing is have to go there because if he's madness during this episode I can't quite remember.
+[00:38:47] Brendan: Reference to another film that I can't think of right now but anyways there's Saturn and Alcoholics Anonymous meeting by the looks of it and an interesting range of characters there you've got Homer who I'm guessing is have to go there because if he's madness during this episode I can't quite remember.
 
-[00:38:47] Nathan [GUESS]: But I know something along those lines Reverend Lovejoy and Helen Lovejoy Lionel hurts the the watch Oh mine are hot so Otto who likes to get blotto hands maehlman at Carl and a couple of people I don't think the characters that's strange I've not noticed everybody except for Carl.
+[00:38:47] Nathan: But I know something along those lines Reverend Lovejoy and Helen Lovejoy Lionel hurts the the watch Oh mine are hot so Otto who likes to get blotto hands maehlman at Carl and a couple of people I don't think the characters that's strange I've not noticed everybody except for Carl.
 
-[00:38:47] Brendan [GUESS]: Actually Helens therefore in the same way as the marriage retreat I think I don't think she's participating I think it's a church group and and the reverent and Alan are just facilitating yeah comes.
+[00:38:47] Brendan: Actually Helens therefore in the same way as the marriage retreat I think I don't think she's participating I think it's a church group and and the reverent and Alan are just facilitating yeah comes.
 
-[00:39:34] Nathan [GUESS]: Mom the best line of the scene though drinking is ruin my life I'm 31 years old because Madge basically asked him to go a month without beer I don't think he did anything that insane he certainly didn't do anything as bad as the Hoff pay with the fly in the glass and the cleavage.
+[00:39:34] Nathan: Mom the best line of the scene though drinking is ruin my life I'm 31 years old because Madge basically asked him to go a month without beer I don't think he did anything that insane he certainly didn't do anything as bad as the Hoff pay with the fly in the glass and the cleavage.
 
-[00:39:34] Brendan [GUESS]: No it is the weird thing with the level of react chin isn't always to the level of the.
+[00:39:34] Brendan: No it is the weird thing with the level of react chin isn't always to the level of the.
 
-[00:40:01] Nathan [GUESS]: Crime but is just what's required by the show but I would have really gone to town and med home and do some really horrific stuff I was gonna send him to rehab at this point anyway.
+[00:40:01] Nathan: Crime but is just what's required by the show but I would have really gone to town and med home and do some really horrific stuff I was gonna send him to rehab at this point anyway.
 
-[00:40:01] Brendan [GUESS]: So Nettie stands up and he says it's been four thousand days since my last string which is what eleven years or something like that since my last and first blackberry snaps and then we see a flashback to the founders bedroom and there's just pictures of Ned and Maude cephalus all over the wall which I thought was somewhat narcissistic nobody else the telephone.
+[00:40:01] Brendan: So Nettie stands up and he says it's been four thousand days since my last string which is what eleven years or something like that since my last and first blackberry snaps and then we see a flashback to the founders bedroom and there's just pictures of Ned and Maude cephalus all over the wall which I thought was somewhat narcissistic nobody else the telephone.
 
-[00:40:01] Nathan [GUESS]: Is on Maude side at this point now this is a flashback in eleven years so at some point Neddy's managed to wrestle it over his side.
+[00:40:01] Nathan: Is on Maude side at this point now this is a flashback in eleven years so at some point Neddy's managed to wrestle it over his side.
 
-[00:40:01] Brendan [GUESS]: So he's got quick access to coal Lovejoy in the middle of the night book was looking concerned maybe he's she knows Ned he's been hit in the snaps I don't know Ned did you.
+[00:40:01] Brendan: So he's got quick access to coal Lovejoy in the middle of the night book was looking concerned maybe he's she knows Ned he's been hit in the snaps I don't know Ned did you.
 
-[00:40:48] Nathan [GUESS]: Clip and Landers today I'm on disease like an agony aunt from the from like the newspapers and so basically I'm guessing she makes like him she makes like a scrapbook her something of clippings from Landers like agony aunt page anyway.
+[00:40:48] Nathan: Clip and Landers today I'm on disease like an agony aunt from the from like the newspapers and so basically I'm guessing she makes like him she makes like a scrapbook her something of clippings from Landers like agony aunt page anyway.
 
-[00:40:48] Brendan [GUESS]: So so Ned he's a bit he's a little bit you know worse for after this this snaps and he says and Ann Landers is a boring old biddy Maude gasps ah puts her hand to her mouth as she has done several times.
+[00:40:48] Brendan: So so Ned he's a bit he's a little bit you know worse for after this this snaps and he says and Ann Landers is a boring old biddy Maude gasps ah puts her hand to her mouth as she has done several times.
 
-[00:40:48] Nathan [GUESS]: So far in this in our journey and says Ned and then we come back because the drunk boozehound is just so unaware of the intensity of thing he's just said the book later as we realize he comes to his senses and we see him now in real-time he says I was.
+[00:40:48] Nathan: So far in this in our journey and says Ned and then we come back because the drunk boozehound is just so unaware of the intensity of thing he's just said the book later as we realize he comes to his senses and we see him now in real-time he says I was.
 
-[00:41:34] Brendan [GUESS]: More animal than man what do you mean yeah well firstly I didn't I was gonna look up who Alan disease because even I still haven't looked it up after you know 29 years or whatever watching this episode man Landers fact.
+[00:41:34] Brendan: More animal than man what do you mean yeah well firstly I didn't I was gonna look up who Alan disease because even I still haven't looked it up after you know 29 years or whatever watching this episode man Landers fact.
 
-[00:41:34] Nathan [GUESS]: So when you finished the you know going through the the scene I did look it up because I like somewhere in the back of my head I knew that I just was either either like a TV show host or like an agony aunt.
+[00:41:34] Nathan: So when you finished the you know going through the the scene I did look it up because I like somewhere in the back of my head I knew that I just was either either like a TV show host or like an agony aunt.
 
-[00:41:34] Brendan [GUESS]: So I looked it up I got some some pretty fun facts about language for you once you've had a go at this nice I kind of assumed that it was a TV show they were talking about would I always thought it was a weird you know like trophy phrase when she said do you clip on and as I.
+[00:41:34] Brendan: So I looked it up I got some some pretty fun facts about language for you once you've had a go at this nice I kind of assumed that it was a TV show they were talking about would I always thought it was a weird you know like trophy phrase when she said do you clip on and as I.
 
-[00:41:34] Nathan [GUESS]: Did you record an episode and I just thought it was sort of a weird Fargo sort of word maybe she's more.
+[00:41:34] Nathan: Did you record an episode and I just thought it was sort of a weird Fargo sort of word maybe she's more.
 
-[00:42:22] Brendan [GUESS]: Shocked by this then I don't know I was gonna said the vegetables but maybe it's a Ryan the same yeah as the vegetable situation also it's nice to know that they've had the house for 11 years.
+[00:42:22] Brendan: Shocked by this then I don't know I was gonna said the vegetables but maybe it's a Ryan the same yeah as the vegetable situation also it's nice to know that they've had the house for 11 years.
 
-[00:42:22] Nathan [GUESS]: So they must have been there longer than the Simpsons oh because the Simpsons as well The Simpsons have been there yeah like 10 years because they got they moved in.
+[00:42:22] Nathan: So they must have been there longer than the Simpsons oh because the Simpsons as well The Simpsons have been there yeah like 10 years because they got they moved in.
 
-[00:42:22] Brendan [GUESS]: No maybe like eight years they moved him when he saw I think into the house what a mod were already there we just didn't know how long they've been there and my final point to make is that when she dies the appraisal on episodes.
+[00:42:22] Brendan: No maybe like eight years they moved him when he saw I think into the house what a mod were already there we just didn't know how long they've been there and my final point to make is that when she dies the appraisal on episodes.
 
-[00:42:22] Nathan [GUESS]: Well and he he talks about mods indentation in the bed from where she slept for all those years but she's on it's on the other side mm-hmm and is it the same bed.
+[00:42:22] Nathan: Well and he he talks about mods indentation in the bed from where she slept for all those years but she's on it's on the other side mm-hmm and is it the same bed.
 
-[00:43:08] Brendan [GUESS]: Because they've got a four-poster bed and I don't remember they always have a fog poster yeah maybe it could be an older older frame and she eventually swapped sides.
+[00:43:08] Brendan: Because they've got a four-poster bed and I don't remember they always have a fog poster yeah maybe it could be an older older frame and she eventually swapped sides.
 
-[00:43:08] Nathan [GUESS]: But we need to keep our eye on the sides because it's actually supposed to be on the other side eventually yeah so one other thing before I give you the an lenders facts is that this is another couple of like really cool and goofy drawings of mod that I really like it when they draw mod from strange angles and gasping because they.
+[00:43:08] Nathan: But we need to keep our eye on the sides because it's actually supposed to be on the other side eventually yeah so one other thing before I give you the an lenders facts is that this is another couple of like really cool and goofy drawings of mod that I really like it when they draw mod from strange angles and gasping because they.
 
-[00:43:08] Brendan [GUESS]: Just don't seem to know how to do it often and so her face just gets contorted into the last week it was like Donald Duck and this one here it's like again it's super goofy I think because she has that big old revival of her top lip kind of comes out so she kind of.
+[00:43:08] Brendan: Just don't seem to know how to do it often and so her face just gets contorted into the last week it was like Donald Duck and this one here it's like again it's super goofy I think because she has that big old revival of her top lip kind of comes out so she kind of.
 
-[00:43:53] Nathan [GUESS]: Looks super weird from a lot of angles they kind of just again I think it's because we're still in the early days of animation and stuff that everybody sort of has like if you look on the they saw a lot of screen caps on line of weird-looking Sims joy like mid-turn and stuff why though I'm weird and they're all from I'd say.
+[00:43:53] Nathan: Looks super weird from a lot of angles they kind of just again I think it's because we're still in the early days of animation and stuff that everybody sort of has like if you look on the they saw a lot of screen caps on line of weird-looking Sims joy like mid-turn and stuff why though I'm weird and they're all from I'd say.
 
-[00:43:53] Brendan [GUESS]: We're gonna maybe start losing that next season hopeful but I think they get more of a grasp on how everybody looks trend up those new animators because.
+[00:43:53] Brendan: We're gonna maybe start losing that next season hopeful but I think they get more of a grasp on how everybody looks trend up those new animators because.
 
-[00:43:53] Nathan [GUESS]: Actually a while but when we talked about the t-shirts more gloves nelle there's a theory that the L is actually a D but it was not colored in very.
+[00:43:53] Nathan: Actually a while but when we talked about the t-shirts more gloves nelle there's a theory that the L is actually a D but it was not colored in very.
 
-[00:43:53] Brendan [GUESS]: Well and so they cut off the curve of the D so it looks like now is that your theory no actually bizarrely enough that is.
+[00:43:53] Brendan: Well and so they cut off the curve of the D so it looks like now is that your theory no actually bizarrely enough that is.
 
-[00:44:39] Nathan [GUESS]: Something that when I started looking at it for I typed in sorry when I said my gloves now or I only did come up and somebody had made a comment on some ready pages someone don't have any more facts for you than that all.
+[00:44:39] Nathan: Something that when I started looking at it for I typed in sorry when I said my gloves now or I only did come up and somebody had made a comment on some ready pages someone don't have any more facts for you than that all.
 
-[00:44:39] Brendan [GUESS]: Right let me drop some Islanders facts on you so he essentially on London was the name of a couple of pseudonyms of people but the main one was always a woman who wrote.
+[00:44:39] Brendan: Right let me drop some Islanders facts on you so he essentially on London was the name of a couple of pseudonyms of people but the main one was always a woman who wrote.
 
-[00:45:00] Nathan [GUESS]: Under the name from like the nineteen fifties essentially all the way up until so my 2005 or something like that so for like 50 odd years and what's really weird is that she like middle America conservative which would make sense for more to like look through the 50 odd years she through some really kind of like left-field thing.
+[00:45:00] Nathan: Under the name from like the nineteen fifties essentially all the way up until so my 2005 or something like that so for like 50 odd years and what's really weird is that she like middle America conservative which would make sense for more to like look through the 50 odd years she through some really kind of like left-field thing.
 
-[00:45:00] Brendan [GUESS]: So for example she was she was comparing for or homosexual civil rights from the sixties onwards but at the same time denouncing it as unnatural she was making cases for legalized prostitution and pro-abortion.
+[00:45:00] Brendan: So for example she was she was comparing for or homosexual civil rights from the sixties onwards but at the same time denouncing it as unnatural she was making cases for legalized prostitution and pro-abortion.
 
-[00:45:00] Nathan [GUESS]: But at the same time consistently giving people advice that was very conservative.
+[00:45:00] Nathan: But at the same time consistently giving people advice that was very conservative.
 
-[00:45:46] Brendan [GUESS]: And about moral decisions and things like that and self-responsibility and things so it's a little bit weird and I just wondered how Moore would have taken on some of those things I mean this is a person she obviously loved he's clipping out on a daily basis or getting Ned to clip out those those clips I don't know we don't have time to.
+[00:45:46] Brendan: And about moral decisions and things like that and self-responsibility and things so it's a little bit weird and I just wondered how Moore would have taken on some of those things I mean this is a person she obviously loved he's clipping out on a daily basis or getting Ned to clip out those those clips I don't know we don't have time to.
 
-[00:45:46] Nathan [GUESS]: Go into this down this rabbit hole too much but I'm just gonna say one more thing the funniest thing that I saw in the unlined is research that I did in 1996 she informed her readers that they should avoid storing rice at weddings because the birds eat it they will explode.
+[00:45:46] Nathan: Go into this down this rabbit hole too much but I'm just gonna say one more thing the funniest thing that I saw in the unlined is research that I did in 1996 she informed her readers that they should avoid storing rice at weddings because the birds eat it they will explode.
 
-[00:45:46] Brendan [GUESS]: Well ice was apparently erroneous as the rice is not harmful to birds since she was she later recanted oh really that's still a.
+[00:45:46] Brendan: Well ice was apparently erroneous as the rice is not harmful to birds since she was she later recanted oh really that's still a.
 
-[00:46:33] Nathan [GUESS]: Thing that goes around that you shouldn't do it's in common law but to answer your question I think it sounds like she sounds like a very mod person I imagine mods general outlook on things that might be a little controversial to Catholic to Christians I think she may have a similar pinion I like you you do what you want nothing is wrong.
+[00:46:33] Nathan: Thing that goes around that you shouldn't do it's in common law but to answer your question I think it sounds like she sounds like a very mod person I imagine mods general outlook on things that might be a little controversial to Catholic to Christians I think she may have a similar pinion I like you you do what you want nothing is wrong.
 
-[00:46:33] Brendan [GUESS]: You you have the free will to do what you choose but it does or doesn't mean I have to like it so you can be what you want.
+[00:46:33] Brendan: You you have the free will to do what you choose but it does or doesn't mean I have to like it so you can be what you want.
 
-[00:46:33] Nathan [GUESS]: But I I can have the opinion that I don't think it's good and we can live civilized yeah I mean I like that we can go with that I'm gonna throw that in the model room and we'll bring it back again for another for another route later in.
+[00:46:33] Nathan: But I I can have the opinion that I don't think it's good and we can live civilized yeah I mean I like that we can go with that I'm gonna throw that in the model room and we'll bring it back again for another for another route later in.
 
-[00:47:18] Brendan [GUESS]: Our lives so we in the interest of keeping this under the sixty minutes or so regulated government more time we're gonna have to just go straight into a couple of letters and then a song you.
+[00:47:18] Brendan: Our lives so we in the interest of keeping this under the sixty minutes or so regulated government more time we're gonna have to just go straight into a couple of letters and then a song you.
 
-[00:47:18] Nathan [GUESS]: Okay with that yes my last thing I want to throw in though is that the monorail episode was written by Conan O'Brien yes and he did write quite quite a few of these at the time and make one just three big he did three that were pretty like three big ones and I think I feel like merging James might be one of.
+[00:47:18] Nathan: Okay with that yes my last thing I want to throw in though is that the monorail episode was written by Conan O'Brien yes and he did write quite quite a few of these at the time and make one just three big he did three that were pretty like three big ones and I think I feel like merging James might be one of.
 
-[00:47:18] Brendan [GUESS]: The other ones so he's got two more the Conan Conan has some more experience that's good the corner Brian wrote one of the mod ones that's good because I throw he you know throws him in is one of Maude's mummies and daddies know Maude was assembled by a whole group of people along the way and I kind of like.
+[00:47:18] Brendan: The other ones so he's got two more the Conan Conan has some more experience that's good the corner Brian wrote one of the mod ones that's good because I throw he you know throws him in is one of Maude's mummies and daddies know Maude was assembled by a whole group of people along the way and I kind of like.
 
-[00:48:04] Nathan [GUESS]: Like that idea alrighty so wrapping up so we got a moored letter Aster's why why did the funders give their kids rod and Todd non-biblical names now I know there's a theory that rod and Todd him and even ma drives with God and that's why.
+[00:48:04] Nathan: Like that idea alrighty so wrapping up so we got a moored letter Aster's why why did the funders give their kids rod and Todd non-biblical names now I know there's a theory that rod and Todd him and even ma drives with God and that's why.
 
-[00:48:04] Brendan [GUESS]: But surely this is a good friend shoot a Wigan town why why would they not give their kids a biblical name maybe it's too on-the-nose make it would make sense to do it.
+[00:48:04] Brendan: But surely this is a good friend shoot a Wigan town why why would they not give their kids a biblical name maybe it's too on-the-nose make it would make sense to do it.
 
-[00:48:04] Nathan [GUESS]: But yeah the only thing I think is Maude having a strong opinion that she wanted you know the names rod and Todd especially you've already got rod.
+[00:48:04] Nathan: But yeah the only thing I think is Maude having a strong opinion that she wanted you know the names rod and Todd especially you've already got rod.
 
-[00:48:04] Brendan [GUESS]: So it's like rod must first rod isn't shot for anything either it's just rod it's now Rodney no or Roderick it's just rod.
+[00:48:04] Brendan: So it's like rod must first rod isn't shot for anything either it's just rod it's now Rodney no or Roderick it's just rod.
 
-[00:48:51] Nathan [GUESS]: And then so obviously you're gonna need symmetry so Todd came after Rob all right but I don't know really just names at all that it would it seems like a bit of a mist.
+[00:48:51] Nathan: And then so obviously you're gonna need symmetry so Todd came after Rob all right but I don't know really just names at all that it would it seems like a bit of a mist.
 
-[00:48:51] Brendan [GUESS]: But maybe in terms of real-world hunters Ned and Todd are in the first episode of The Simpsons and it's before they decided that Ned was religious.
+[00:48:51] Brendan: But maybe in terms of real-world hunters Ned and Todd are in the first episode of The Simpsons and it's before they decided that Ned was religious.
 
-[00:48:51] Nathan [GUESS]: So I think we probably just the name taught and then they built the names rod and more probably in the same way that they had Todd's design.
+[00:48:51] Nathan: So I think we probably just the name taught and then they built the names rod and more probably in the same way that they had Todd's design.
 
-[00:48:51] Brendan [GUESS]: So they designed modern rod around how they'd already design top that does make sense and you know had they thrown in a biblical name at the beginning.
+[00:48:51] Brendan: So they designed modern rod around how they'd already design top that does make sense and you know had they thrown in a biblical name at the beginning.
 
-[00:48:51] Nathan [GUESS]: But also I kind of feel that maybe they avoided that because none of the children have names that are biblical other Martin.
+[00:48:51] Nathan: But also I kind of feel that maybe they avoided that because none of the children have names that are biblical other Martin.
 
-[00:49:37] Brendan [GUESS]: There is a say Martin I think so some of them maybe dry finger Bartholomew is that biblical well here you go so there's actually 10 mentions of the word rod in the Bible.
+[00:49:37] Brendan: There is a say Martin I think so some of them maybe dry finger Bartholomew is that biblical well here you go so there's actually 10 mentions of the word rod in the Bible.
 
-[00:49:37] Nathan [GUESS]: But none of them has names my favorite one was when furred or speaks to you saying work a miracle then you shall say to add and take your staff and throwing down before Ferno that it.
+[00:49:37] Nathan: But none of them has names my favorite one was when furred or speaks to you saying work a miracle then you shall say to add and take your staff and throwing down before Ferno that it.
 
-[00:50:01] Brendan [GUESS]: May become a serpent I said stuff instead of rods obviously cake yard rod and Troy down before fer know that it may become a circus that's a good one cue - now and do like off topic what the the used to be like Simpsons like collects of cards with like very random characters including mod.
+[00:50:01] Brendan: May become a serpent I said stuff instead of rods obviously cake yard rod and Troy down before fer know that it may become a circus that's a good one cue - now and do like off topic what the the used to be like Simpsons like collects of cards with like very random characters including mod.
 
-[00:50:01] Nathan [GUESS]: Actually mod Helen the one the whole gang and one of them was the inanimate carbon rod and the little devil little fat file on all the cards and the one on the on the inanimate carbon rod was not to be mistaken with and then just a picture of rod fondest nice good visual gag now of course Todd doesn't appear in the Bible.
+[00:50:01] Nathan: Actually mod Helen the one the whole gang and one of them was the inanimate carbon rod and the little devil little fat file on all the cards and the one on the on the inanimate carbon rod was not to be mistaken with and then just a picture of rod fondest nice good visual gag now of course Todd doesn't appear in the Bible.
 
-[00:50:01] Brendan [GUESS]: Anywhere and also there's the theory that he because he has the devil's curly.
+[00:50:01] Brendan: Anywhere and also there's the theory that he because he has the devil's curly.
 
-[00:50:48] Nathan [GUESS]: Her is actually the bad one if we look at the idea of Cain and Abel siblings siblings from the biblical era Todd's gonna be the one who does the bad deed isn't he I think.
+[00:50:48] Nathan: Her is actually the bad one if we look at the idea of Cain and Abel siblings siblings from the biblical era Todd's gonna be the one who does the bad deed isn't he I think.
 
-[00:50:48] Brendan [GUESS]: So Todd is definitely the confident one of the two so moving on just before we get to the song Allah Allah you know grousers F the dude that's kind of pestering us and harassing us on YouTube he's given as a mother he's given is another another what I can only what I can only describe as an ear bashing I'm gonna read it.
+[00:50:48] Brendan: So Todd is definitely the confident one of the two so moving on just before we get to the song Allah Allah you know grousers F the dude that's kind of pestering us and harassing us on YouTube he's given as a mother he's given is another another what I can only what I can only describe as an ear bashing I'm gonna read it.
 
-[00:50:48] Nathan [GUESS]: For you you have do it still doing mad stuff mate FM NK it has blown my head off pie and chips I love your Krang tracks off I think you may be the same message he put.
+[00:50:48] Nathan: For you you have do it still doing mad stuff mate FM NK it has blown my head off pie and chips I love your Krang tracks off I think you may be the same message he put.
 
-[00:51:34] Brendan [GUESS]: Last time that he's just put again on another video I don't feel threatened to be honest but I would like to know what's going on in grams ABS mind that he continues to listen to our episodes.
+[00:51:34] Brendan: Last time that he's just put again on another video I don't feel threatened to be honest but I would like to know what's going on in grams ABS mind that he continues to listen to our episodes.
 
-[00:51:34] Nathan [GUESS]: But he's but he's obviously disturbed by them he's obviously on a journey of his own I yeah it put money I'm not a gambling man unless it comes to the property rights for a museum.
+[00:51:34] Nathan: But he's but he's obviously disturbed by them he's obviously on a journey of his own I yeah it put money I'm not a gambling man unless it comes to the property rights for a museum.
 
-[00:51:34] Brendan [GUESS]: But I would like to put money on him having some kind of emotional Redemption and by the end maybe being mods bit it is fun maybe one day you've been taking over this podcast.
+[00:51:34] Brendan: But I would like to put money on him having some kind of emotional Redemption and by the end maybe being mods bit it is fun maybe one day you've been taking over this podcast.
 
-[00:51:34] Nathan [GUESS]: Well that would be good to do a whole podcast episode run by Graz F we'll see whether that transpires now.
+[00:51:34] Nathan: Well that would be good to do a whole podcast episode run by Graz F we'll see whether that transpires now.
 
-[00:52:21] Brendan [GUESS]: It's time it's that time we got a go with once again managed to fulfill our culture of minutes so we're not gonna get in trouble by anybody because we've managed to talk for long enough some words they're too long now are you ready you led last week and what can only be described as a storming end song I like to call the.
+[00:52:21] Brendan: It's time it's that time we got a go with once again managed to fulfill our culture of minutes so we're not gonna get in trouble by anybody because we've managed to talk for long enough some words they're too long now are you ready you led last week and what can only be described as a storming end song I like to call the.
 
-[00:52:21] Nathan [GUESS]: Post mortem um as we mentioned earlier do you want to go first did you want me to lead the charge yes as I mentioned earlier.
+[00:52:21] Nathan: Post mortem um as we mentioned earlier do you want to go first did you want me to lead the charge yes as I mentioned earlier.
 
-[00:52:21] Brendan [GUESS]: Yeah go for it you go first I handsome shoe buffer the mm I love weeks off the foots which is a beautifully without the blaze on the east boring boring boring book bought boring.
+[00:52:21] Brendan: Yeah go for it you go first I handsome shoe buffer the mm I love weeks off the foots which is a beautifully without the blaze on the east boring boring boring book bought boring.
 
-[00:53:08] Nathan [GUESS]: Mister snob I see you was the bad guy that you are mono means one rail means rail stepping down the steps and time with each other who not singing or singing a mule with the spinning wheel if you think I'm curd pudding cup pudding can horrific drawings Hindu friend Llano hurts and little Mole Man cushy jobs Biddy and Landers gas is very attractive.
+[00:53:08] Nathan: Mister snob I see you was the bad guy that you are mono means one rail means rail stepping down the steps and time with each other who not singing or singing a mule with the spinning wheel if you think I'm curd pudding cup pudding can horrific drawings Hindu friend Llano hurts and little Mole Man cushy jobs Biddy and Landers gas is very attractive.
