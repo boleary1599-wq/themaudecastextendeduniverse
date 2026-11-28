@@ -129,3 +129,7 @@ Increase sponsor name size to clamp(1.5rem,4.5vw,2.1rem), use .65px dark bronze 
 
 ### Sponsor plaque lettering refinement — 28 November 2026
 Retain deep relief and gold plaque styling, but reduce sponsor name size to clamp(1.35rem,4vw,1.85rem) and darken the lettering face to #291706. Applied to Episodes 1–8 and verified in repository; live visual QA pending.
+
+
+### Sponsor plaque ornament removal — 28 November 2026
+Remove the small diamond ornaments above and below each individual sponsor name. Keep the gold plaques, deep relief dark bronze lettering and outer panel styling unchanged. Applied to Episodes 1–8; repository verified, live visual QA pending.
