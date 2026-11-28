@@ -107,3 +107,12 @@ Visible transcripts must display **only the speaker's name** (e.g. Brendan, Nath
 
 ### Episode page heading hierarchy (28 November 2026)
 Use a compact **Episode N** kicker above the standalone episode title (no duplicated “Episode N —” within the H1). The episode-number kicker is roughly half the visual size of the title; use a responsive, balanced H1 sized to fit on one or two lines at ordinary viewport widths. Preserve exact episode-title wording and mobile legibility. Apply consistently across all published episodes.
+
+### Episode masthead and sponsor presentation — consolidated backdated standard (28 November 2026)
+Applies retroactively to Episodes 1–8 and to all future pages:
+- Small **Episode N** kicker above the H1; title alone in the H1, balanced responsively to approximately one or two lines. No redundant episode number in the title.
+- Remove the three metadata pills under the title (episode number, transcript status/duration, host names).
+- Directly under the title, show an approximately **20-word** playful, episode-specific blurb beginning **“In which…”**, briefly covering **both the Museum story and Maude's life**. Ground each half in that episode's own narrative; avoid spoilers from later episodes.
+- Sponsor panel: only **Sponsors**, names and any attested short slogans/gags; no timestamps, source notes, commercial disclaimers or explanatory commentary. Do not fabricate sponsor credits.
+- Transcript: speaker names alone, with no GUESS or uncertainty markers visible. Keep provenance/confidence in internal source records for checking.
+- Canonical vocabulary: **Flandball**, never “Flungball”, in the fictional competition's context. See MFIMDB-CANON-DICTIONARY.md.
