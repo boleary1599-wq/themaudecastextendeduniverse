@@ -105,3 +105,7 @@ User-supplied original video: https://www.youtube.com/watch?v=xxo7nxfvssY (ID xx
 
 ### Episode 006 layout acceptance
 Use episode-001.html as structural master, with the existing six panels, deep-purple episode palette, matching embedded video, 5–10 minute clickable transcript checkpoints, original TXT and attributed JSON and return links. Preserve the approved essay verbatim when recoverable; do not silently substitute new text.
+
+
+### Mauditorium panel border — 28 November 2026
+Use a 2px solid orange (#f47c24) outline around the entire Mauditorium panel, retaining its existing purple background, rounded corners, spacing and discovery-first content. CSS: `#mauditorium{border:2px solid #f47c24}`. Backdated to Episodes 1–8 and verified in repository. Live visual QA pending.
