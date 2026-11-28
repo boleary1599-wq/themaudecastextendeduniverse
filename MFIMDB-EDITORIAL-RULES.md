@@ -98,3 +98,9 @@ The episode Sponsor panel is an **in-universe comedy credit**, not a test for re
 
 ### Sponsor presentation override (28 November 2026)
 Display sponsor panels as **direct credits only**: heading “Sponsors”, then sponsor name and, only when supported, a short slogan, blurb or associated gag. **No timestamps, explanatory commentary, verification disclaimers, or discussion of real-world sponsorship in the visible panel.** Do not invent slogans or credit names not supported by the episode. Keep provenance and uncertainty in internal editorial records rather than in the public sponsor panel. If none recovered, display simply “No sponsor named.” This presentation override applies to all episodes.
+
+### Transcript presentation: clean speaker names (28 November 2026)
+Visible transcripts must display **only the speaker's name** (e.g. Brendan, Nathan) before their speech. Never append “GUESS”, “[GUESS]”, “provisional”, confidence labels, or disclaimers acknowledging uncertain attribution in the published transcript, its heading or intro. Preserve source cues and any attribution confidence internally for future audio verification; do not mistake removing a visible label for verifying a voice. Apply to all existing and future episode transcripts.
+
+### Canonical spelling: Flandball (28 November 2026)
+**Flandball** is the fictional game/competition named in the Maudecast universe, particularly the disputed Museum-ownership story in Episode 8. This is a coined term, **not “Flungball”**. Add **Flandball** to the project's canonical dictionary / transcription glossary and preserve this exact spelling in episode titles, essays, Museum stories, continuity cards, captions and transcripts whenever this game is meant. Correct speech-recognition variants contextually, without silently changing unrelated words. Existing erroneous Episode 8 title “The Flungball Inheritance” becomes **“The Flandball Inheritance.”**
