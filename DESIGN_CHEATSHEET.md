@@ -121,3 +121,7 @@ Supersedes the purple individual sponsor card treatment: each sponsor credit is 
 
 ### Embossed sponsor lettering — 28 November 2026
 Gold plaque sponsor names use heavy dark bronze serif lettering, subtle text stroke, increased tracking and layered highlight/shadow text effects for raised relief. Slogans retain a lighter highlight. Backdated to Episodes 1–8, repository verified; live visual QA pending.
+
+
+### Deep relief sponsor lettering — 28 November 2026
+Increase sponsor name size to clamp(1.5rem,4.5vw,2.1rem), use .65px dark bronze stroke and stepped extrusion shadows up to 4px with a bright upper highlight and cast shadow. This supersedes the subtler embossed treatment. Episodes 1–8 repository verified; live visual QA pending.
