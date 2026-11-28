@@ -104,3 +104,6 @@ Visible transcripts must display **only the speaker's name** (e.g. Brendan, Nath
 
 ### Canonical spelling: Flandball (28 November 2026)
 **Flandball** is the fictional game/competition named in the Maudecast universe, particularly the disputed Museum-ownership story in Episode 8. This is a coined term, **not “Flungball”**. Add **Flandball** to the project's canonical dictionary / transcription glossary and preserve this exact spelling in episode titles, essays, Museum stories, continuity cards, captions and transcripts whenever this game is meant. Correct speech-recognition variants contextually, without silently changing unrelated words. Existing erroneous Episode 8 title “The Flungball Inheritance” becomes **“The Flandball Inheritance.”**
+
+### Episode page heading hierarchy (28 November 2026)
+Use a compact **Episode N** kicker above the standalone episode title (no duplicated “Episode N —” within the H1). The episode-number kicker is roughly half the visual size of the title; use a responsive, balanced H1 sized to fit on one or two lines at ordinary viewport widths. Preserve exact episode-title wording and mobile legibility. Apply consistently across all published episodes.
